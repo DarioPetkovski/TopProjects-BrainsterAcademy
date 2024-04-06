@@ -4,7 +4,7 @@ This App is the second project on the brainster front-end programing academy. Th
 
 ## Clone this Repository
 
-https://github.com/DarioPetkovski/TopProjects-BrainsterAcademy/tree/Restaurant-App
+https://github.com/DarioPetkovski/TopProjects-BrainsterAcademy/tree/Street-Artists
 
 ## Run App
 

@@ -1,0 +1,32 @@
+.logo{
+    width: 100px;
+}
+.header{
+    width: 95%;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+.list{
+    list-style: none;
+}
+.list li{
+    margin-left: 15px;
+}
+.list li a{
+    text-decoration: none;
+    color: rgb(158, 158, 158);
+    font-weight: 700;
+}
+.list li a:hover{
+    color: black;
+}
+.icons i:nth-child(1){
+    margin-right: 20px;
+}
+.icons i {
+    font-size: 20px;
+    color: rgb(158, 158, 158);
+    cursor: pointer;
+}
+.icons i:hover{
+    color: black;
+}

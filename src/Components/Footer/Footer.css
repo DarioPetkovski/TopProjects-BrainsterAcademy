@@ -1,0 +1,26 @@
+.footer-wrapper{
+    width: 95%;
+}
+.socialMedia{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(236, 185, 0);
+}
+.socialMedia:hover{
+    background-color: rgb(173, 136, 2);
+}
+.footer-con a{
+    text-decoration: none;
+}
+.footer-con a:hover{
+    text-decoration: none;
+}
+.links a {
+    color: black;
+}
+.links a:hover {
+    text-decoration: underline;
+}
+.pl-4-5{
+    padding-left: 2.2rem;
+}

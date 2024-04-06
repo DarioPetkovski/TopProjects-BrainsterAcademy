@@ -1,0 +1,9 @@
+.img-wrapper{
+    width: 150px;
+}
+.AlbumList{
+    background-color: rgb(212, 212, 212);
+}
+.AlbumList p {
+    line-height: 1.1;
+}

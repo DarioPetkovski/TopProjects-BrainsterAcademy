@@ -1,0 +1,9 @@
+.AlbumPage {
+    background-color: rgb(212, 212, 212);
+}
+.AlbumPage .content-size{
+    font-size: 24px;
+}
+.AlbumPage .bold{
+    font-weight: 500;
+}

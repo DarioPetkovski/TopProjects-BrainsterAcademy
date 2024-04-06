@@ -1,0 +1,11 @@
+i{
+    font-size: 30px;
+}
+.basketCon{
+    position: relative;
+}
+.badge{
+    position: absolute;
+    left: 50%;
+    top:-10px
+}

@@ -1,9 +1,0 @@
-.pointer{
-    cursor: pointer;
-}
-.pointer:hover{
-    border-bottom: 3px solid purple;
-}
-.nav{
-    height: 70px;
-}

@@ -1,0 +1,6 @@
+@use "../Abstracts/variables" as var;
+
+.footer{
+    background-color: var.$label-color;
+    color: var.$primary;
+}

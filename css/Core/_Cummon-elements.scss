@@ -1,0 +1,77 @@
+@use "../Abstracts/variables" as var;
+
+body{
+    background-color: var.$background-color;
+}
+.banner-border{
+    margin: 0;
+    height: 15px;
+    background: linear-gradient(90deg, rgba(99,194,226,1) 31%, rgba(183,0,255,1) 70%, rgba(255,0,181,1) 100%);;
+}
+.bold{
+    font-weight: bold;
+}
+.box-shadow{
+    box-shadow: 0 10px 10px 10px rgba(0,0,0,0.1);
+}
+.input-btn-bg{
+    background-color: var.$button-color;
+    color: var.$primary;
+}
+.mt-7{
+    margin-top: 7rem;
+    @media(max-width:991.5px){
+        margin-top: 3rem;
+    }
+}
+.pb-10{
+    padding-bottom: 20rem;
+}
+.form-header-size{
+    font-size: 70px;
+    @media(max-width: 991.5px){
+        font-size: 40px;
+    }
+}
+.box-shadow-nav{
+    box-shadow: 0 0 30px 0 rgba(0,0,0,0.5);
+}
+.vh-70{
+    height: 70vh;
+}
+.border-radius{
+    border-radius: 20px;
+}
+.border-radius-input{
+    border-radius: 10px;
+}
+.border-radius-top{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+img{
+    width: 100%;
+}
+.brown-color{
+    background-color: var.$label-color;
+}
+.card-btn{
+    background-color: var.$button-color;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.button{
+    background-color: var.$button-color;
+    border-color: var.$button-color;
+    border: 1px solid var.$button-color;
+    color: var.$primary;
+    border-radius: 5px;
+    transition: all 0.5s ease;
+    font-size:large;
+    font-weight: bold;
+    &:hover{
+       background-color: transparent;
+       color: var.$secondary;
+       transition: all 0.5s ease;
+    }
+}

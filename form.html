@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Document</title>
+        <meta charset="utf-8" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+
+        <!-- Latest compiled and minified Bootstrap 4.6 CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+        <!-- CSS script -->
+        <link rel="stylesheet" href="./css/main.css">
+        <!-- Latest Font-Awesome CDN -->
+        <script src="https://kit.fontawesome.com/15312b0711.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+
+
+       <main>
+
+
+         <!-----------Navbar-------->
+
+         <nav class="py-lg-4 px-lg-5 px-3 py-2 box-shadow-nav">
+            <a href="./index.html">
+                <div class="logo">
+                    <img src="./Design/Logo.png" alt="logo">
+                   <h6 class="mb-0 mt-1">BRAINSTER</h6>
+               </div>
+            </a>
+            <ul type="none" class="mb-0 nav-list d-none d-lg-flex">
+                <li class="mr-4 link-one d-flex flex-column justify-content-center align-items-center">
+                    <a href="https://brainster.co/marketing/" target="_blank">Академија за маркетинг</a>
+                    <hr class="underline one m-0">
+                </li>
+                <li class="mr-4 link-two d-flex flex-column justify-content-center align-items-center">
+                    <a href="https://brainster.co/full-stack/" target="_blank">Академија за програмирање</a>
+                    <hr class="underline two m-0">
+                </li>
+                <li class="mr-4 link-three d-flex flex-column justify-content-center align-items-center">
+                    <a href="https://brainster.co/data-science/" target="_blank">Академија за data science</a>
+                    <hr class="underline three m-0">
+                </li>
+                <li class="mr-5 link-four d-flex flex-column justify-content-center align-items-center">
+                    <a href="https://brainster.co/graphic-design/" target="_blank">Академија за дизајн</a>
+                    <hr class="underline four m-0">
+                </li>
+                <li>
+                    <a href="./form.html" class="button py-2 px-3 d-none d-lg-inline-block" >Вработи наш студент</a>
+                </li>
+            </ul>
+                <div class="wrap-bars d-lg-none">
+                    <hr class="mt-0 mb-2 bar-first">
+                    <hr class="my-0 mr-0 bar-second">
+                    <hr class="mb-0 mt-2 mr-0 bar-third">
+                </div>
+                <div class="drop-menu brown-color position-fixed text-white">
+                    <ul type="none" class="dropdown p-5">
+                        <i class="fa-solid fa-x h1"></i>
+                        <li class="mt-5 mob-one d-flex justify-content-center align-items-center flex-column">
+                            <a href="https://brainster.co/marketing/" target="_blank">Академија за маркетинг</a>
+                            <hr class="underline-mob mob-lineone m-0">
+                        </li>
+                        <li class="mt-5 mob-two d-flex justify-content-center align-items-center flex-column">
+                            <a href="https://brainster.co/full-stack/" target="_blank">Академија за програмирање</a>
+                            <hr class="underline-mob mob-linetwo m-0">
+                        </li>
+                        <li class="mt-5 mob-three d-flex justify-content-center align-items-center flex-column">
+                            <a href="https://brainster.co/data-science/" target="_blank">Академија за data science</a>
+                            <hr class="underline-mob mob-linethree m-0">
+                        </li>
+                        <li class="mt-5 mob-four d-flex justify-content-center align-items-center flex-column">
+                            <a href="https://brainster.co/graphic-design/" target="_blank">Академија за дизајн</a>
+                            <hr class="underline-mob mob-linefour m-0">
+                        </li>
+                        <a href="./form.html" class="button py-2 px-3 mt-5 d-inline-block" >Вработи наш студент</a>
+                    </ul>
+                </div>
+        </nav>
+
+
+        <!-----------Form-------->
+
+
+
+        <div class="container-fluid text-center mt-7 px-0">
+            <h1 class="form-header-size bold">Вработи студенти</h1>
+        </div>
+
+
+        <div class="container-lg container-md-fluid mt-7 pb-5">
+            <form id="form" name="myForm" method="GET" action="">
+                <div class="row">
+                    <div class="col-md-6 col-12">
+                        <div class="form-wrap mt-4">
+                            <div class="form-item">
+                                <label for="nameSurname" class="mb-0 bold">Име и презиме</label>
+                                <div class="input-item">
+                                    <input type="text" id="nameSurname" name="nameSurname" placeholder="Вашето име и презиме" class="w-100 p-3 border-0 border-radius-input">
+                                    <small class="error hidden"><i>Ве молиме внесете го вашето име и презиме</i></small>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    <div class="col-md-6 col-12">
+                        <div class="form-wrap">
+                            <div class="form-item mt-4">
+                                <label for="companyName" class="mb-0 bold">Име на компанија</label>
+                                <div class="input-item">
+                                    <input type="text" id="companyName" name="companyName" placeholder="Име на вашата компанија" class="w-100 p-3 border-0 border-radius-input">
+                                    <small class="error hidden"><i>Ве молиме внесете го името на вашата компанија</i></small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-12">
+                        <div class="form-wrap">
+                            <div class="form-item mt-4">
+                                <label for="email" class="mb-0 bold">Контакт имејл</label>
+                                <div class="input-item">
+                                    <input type="email" id="email" name="email" placeholder="Контакт имејл на вашата компанија" class="w-100 p-3 border-0 border-radius-input">
+                                    <small class="error hidden"><i>Ве молиме внесете валидна Е-маил адреса од вашата компанија (example@email.com)</i></small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="form-wrap">
+                            <div class="form-item mt-4">
+                                <label for="contact" class="mb-0 bold">Контакт телефон</label>
+                                <div class="input-item">
+                                    <input type="tel" id="contact" name="contact" placeholder="Контакт телефон на вашата компанија" class="w-100 p-3 border-0 border-radius-input">
+                                    <small class="error hidden"><i>Ве молиме внесете го вашиот телефонски број (+389)</i></small>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-12 pb-10">
+                        <div class="form-wrap">
+                            <div class="form-item mt-4">
+                                <label for="select" class="mb-0 bold">Тип на студенти</label>
+                                <div class="select-item">
+                                    <select id="select" class="d-none">
+                                        <option value="Изберете тип на студент" class="select-box">Изберете тип на студент</option>
+                                        <option value="Студенти од маркетинг" class="option-select marketing">Студенти од маркетинг</option>
+                                        <option value="Студенти од програмирање"
+                                        class="option-select programing">Студенти од програмирање</option>
+                                        <option value="Студенти од data science"
+                                        class="option-select dataScience">Студенти од data science</option>
+                                        <option value="Студенти од дизајн"
+                                        class="option-select design">Студенти од дизајн</option>
+                                    </select>
+                                </div>
+                                <div class="select-costum p-3 border-0 border-radius-input bg-white">
+                                    <p class="mb-0 bold text">Изберете тип на студент</p>
+                                    <i class="fa-solid fa-chevron-down"></i>
+                                </div>
+                                <ul type="none" class=" pl-0 mt-3 bg-white border-radius-input bold
+                                list box-shadow hidden">
+                                    <li class="d-block p-3 border-bottom option marketing"
+                                >Студенти од маркетинг</li>
+                                    <li class="d-block p-3 border-bottom option programing">Студенти од програмирање</li>
+                                    <li class="d-block p-3 border-bottom option dataScience">Студенти од data science</li>
+                                    <li class="d-block p-3 border-bottom option design">Студенти од дизајн</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="form-wrap">
+                            <div class="form-item mt-5">
+                                <input type="submit" id="submit" value="ИСПРАТИ" class="w-100 p-3 border-0 border-radius-input input-btn-bg">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        
+
+
+
+
+         <!-------Footer------->
+
+         <div class="footer text-center bold py-3">
+            <p class="mb-0">Изработено со ❤ од студентите на Brainster</p>
+        </div>
+
+
+        
+       </main>
+
+
+        
+        <!-- jQuery library -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="ha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        
+        <!-- Latest Compiled Bootstrap 4.6 JavaScript -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+        <script src="./form.js"></script>
+    </body>
+</html>

@@ -1,0 +1,96 @@
+@use "../Abstracts/variables" as var;
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    a{
+        color: inherit;
+        text-decoration: none;
+        font-size:large;
+        font-weight: bold;
+        &:hover{
+            text-decoration: none;
+            color: inherit;
+        }
+    }
+    .logo{
+        width: 50px;
+        text-align: center;
+        h6{
+            font-size: small;
+            font-weight: bold;
+            margin-left: -10px;
+        }
+    }
+    .nav-list{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .underline{
+            transition: all 0.5s ease;
+            height: 2px;
+            background-color: var.$secondary;
+            width: 0%;
+        }
+    }
+    .wrap-bars{
+        cursor: pointer;
+        width: 55px;
+        position: absolute;
+        right: 15px;
+
+        .bar-first{
+            width: 45px;
+            border: 4px solid var.$secondary;
+            border-radius: 20px;
+        }
+        .bar-second{
+            width: 30px;
+            border: 4px solid var.$secondary;
+            border-radius: 20px;
+        }
+        .bar-third{
+            width: 15px;
+            border: 4px solid var.$secondary;
+            border-radius: 20px;
+        }
+    }
+    .drop-menu{
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        z-index: 100;
+        right: -100%;
+        top: 0;
+        position: relative;
+        transition: all 0.5s ease;
+
+        .dropdown{
+            padding-bottom: 0;
+            transition: all 3s ease;
+            opacity: 0;
+            li{
+                width: fit-content;
+                .underline-mob{
+                    transition: all 0.5s ease;
+                    height: 2px;
+                    background-color: var.$primary;
+                    width: 0%;
+                }
+            }
+            .fa-x{
+                position: absolute;
+                right: 25px;
+                top:20px;
+                cursor: pointer;
+            }
+        }
+        .button{
+            &:hover{
+                color: inherit;
+            }
+        }
+    }
+}

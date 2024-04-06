@@ -1,0 +1,51 @@
+@use "../Abstracts/variables" as var;
+
+form{
+    .form-item{
+        input{
+            outline: none;
+            &::placeholder{
+                font-style: italic;
+            }
+        }
+        position: relative;
+        .select-costum{
+            position: relative;
+            cursor: pointer;
+            .fa-chevron-down{
+                position: absolute;
+                right: 10px;
+                bottom: 17px;
+                font-size: 20px;
+                pointer-events: none;
+            }
+        }
+        .list{
+            position: absolute;
+            width: 100%;
+            .option{
+                cursor: pointer;
+                border-radius: 10px;
+                &:hover{
+                    background-color: rgba(0, 0, 0, 0.045);
+                }
+            }
+        }
+        .red-border{
+            border: 3px solid var.$button-color !important;
+        }
+        .green-border{
+            border: 3px solid rgb(13, 216, 13) !important;
+        }
+        .error{
+            color: var.$button-color !important;
+        }
+        .show{
+            display: block;
+        }
+        .hidden{
+            display: none;
+        }
+    }
+}
+

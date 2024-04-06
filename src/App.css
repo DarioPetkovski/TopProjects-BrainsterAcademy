@@ -1,0 +1,52 @@
+.card{
+  box-shadow: 1px 13px 23px -3px rgba(0,0,0,0.78);
+  -webkit-box-shadow: 1px 13px 23px -3px rgba(0,0,0,0.78);
+  -moz-box-shadow: 1px 13px 23px -3px rgba(0,0,0,0.78);
+  background-color: inherit;
+}
+.link{
+  color: black;
+}
+.link:hover{
+  text-decoration: none;
+  color: black;
+}
+.link-active{
+  font-weight: 700;
+  border-bottom: 4px solid rgb(122, 250, 197);
+}
+.fa-moon{
+  font-size: 24px;
+  cursor: pointer;
+}
+.dark-mode{
+  background-color: rgb(77, 77, 77);
+  color: white;
+}
+.link-dark{
+  color: white;
+}
+.link-dark:hover{
+  color: white;
+  text-decoration: none;
+}
+.fa-sun{
+  font-size: 24px;
+  cursor: pointer;
+}
+.button{
+  background-color: rgb(122, 250, 197);
+  border: none;
+  font-weight: 700;
+}
+.button:hover{
+  background-color: rgb(107, 211, 168);
+}
+.font-size{
+  font-size: 30px;
+}
+.form-con{
+  box-shadow: 1px 13px 23px -3px rgba(0,0,0,0.78);
+  -webkit-box-shadow: 1px 13px 23px -3px rgba(0,0,0,0.78);
+  -moz-box-shadow: 1px 13px 23px -3px rgba(0,0,0,0.78);
+}

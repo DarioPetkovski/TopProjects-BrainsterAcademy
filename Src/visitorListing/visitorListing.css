@@ -1,0 +1,11 @@
+#visitorListing {
+  background-color: #EDD5BB;
+  width: 100%;
+  transition: all ease 0.5s;
+  position: relative;
+}
+#visitorListing .filterBtn {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}/*# sourceMappingURL=visitorListing.css.map */

@@ -1,0 +1,730 @@
+@import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+#landingPage {
+  background-color: var(--Background-Light, #FCEBD5);
+  padding-bottom: 100px;
+}
+#landingPage .wrapper-one {
+  position: relative;
+  z-index: 88;
+}
+#landingPage .wrapper-one .first-wrapper {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 35%);
+          clip-path: polygon(0 0, 100% 0, 100% 100%, 0 35%);
+  background-color: var(--Background-Normal, #EDD5BB);
+  width: 260px;
+  height: 276.5px;
+  position: absolute;
+  font-family: "Reenie Beanie", cursive;
+  color: var(--Primary-Default, #A16A5E);
+  transition: transform 0.5s;
+}
+#landingPage .wrapper-one .first-wrapper #artistSelect {
+  font-family: sans-serif;
+  background-color: var(--Background-Normal, #EDD5BB);
+  border-color: var(--Primary-Default, #A16A5E);
+  color: var(--Primary-Default, #A16A5E);
+  width: 50%;
+  outline: none;
+  position: absolute;
+  right: 15%;
+}
+#landingPage .wrapper-one .first-wrapper:hover {
+  transform: scale(1.03);
+  box-shadow: 15px 19px 27px -5px rgba(0, 0, 0, 0.75);
+}
+#landingPage .wrapper-one:hover {
+  filter: drop-shadow(-1px 6px 2px rgba(0, 0, 0, 0.3));
+}
+#landingPage .wrapper-two {
+  transform: rotate(180deg);
+  position: relative;
+}
+#landingPage .wrapper-two .second-wrapper {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 35%);
+          clip-path: polygon(0 0, 100% 0, 100% 100%, 0 35%);
+  background-color: var(--Primary-Default, #A16A5E);
+  width: 260px;
+  height: 276.5px;
+  margin-top: 5.7rem;
+  font-family: "Reenie Beanie", cursive;
+  color: var(--Background-Light, #FCEBD5);
+  transition: transform 0.5s;
+}
+#landingPage .wrapper-two .second-wrapper .visitor-title {
+  transform: rotate(180deg);
+  position: absolute;
+  right: 15%;
+  top: 20%;
+}
+#landingPage .wrapper-two .second-wrapper:hover {
+  transform: scale(1.03);
+  box-shadow: 15px 19px 27px -5px rgba(0, 0, 0, 0.75);
+}
+#landingPage .wrapper-two:hover {
+  filter: drop-shadow(-1px 6px 2px rgba(0, 0, 0, 0.3));
+  z-index: 100;
+}
+
+#visitor {
+  width: 100%;
+  background-color: #EDD5BB;
+}
+#visitor #carouselExampleIndicators {
+  background-color: #FCEBD5;
+}
+#visitor #carouselExampleIndicators .item {
+  display: flex;
+  justify-content: center;
+  padding: 3rem;
+  text-align: center;
+}
+#visitor #carouselExampleIndicators .item .line {
+  position: absolute;
+  top: 20px;
+  width: 1px;
+  height: 200px;
+  background-color: #A16A5E;
+  margin-left: 20px;
+}
+#visitor #carouselExampleIndicators .item .left {
+  max-width: 120px;
+  min-width: 120px;
+  padding: 10px;
+  background-color: var(--Background-Dark, #E09686);
+}
+#visitor #carouselExampleIndicators .item .left .card {
+  padding-top: 20px;
+  background-color: var(--Background-Dark, #E09686);
+  border: none;
+  color: #FCEBD5;
+  position: relative;
+}
+#visitor #carouselExampleIndicators .item .left .card img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: -35px;
+  right: 25px;
+}
+#visitor #carouselExampleIndicators .item .left .card p {
+  margin-bottom: 0;
+}
+#visitor #carouselExampleIndicators .item .right {
+  max-width: 120px;
+  min-width: 120px;
+  padding: 10px;
+}
+#visitor #carouselExampleIndicators .item .right .card {
+  background-color: #FCEBD5;
+  border: none;
+  color: #A16A5E;
+}
+#visitor #carouselExampleIndicators .item .right .card p {
+  margin-bottom: 0;
+}
+#visitor .banner {
+  width: 100%;
+  background: url("/imgs/Bricks.png");
+  background-color: var(--Background-Light, #FCEBD5);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#visitor .banner h1 {
+  font-size: xx-large;
+  font-weight: 600;
+  width: 50%;
+  color: #A16A5E;
+}
+#visitor .banner .itemBtn {
+  background-color: var(--Primary-Default, #A16A5E);
+  box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.25);
+  color: var(--Background-Light, #FCEBD5);
+  font-size: smaller;
+}
+#visitor .banner .itemBtn:hover {
+  text-decoration: none;
+}
+#visitor .table-box {
+  background-color: #FCEBD5;
+  position: absolute;
+  z-index: -1;
+}
+#visitor .table-box .col-1 {
+  padding: 0;
+}
+#visitor .table-box .block {
+  height: 25px;
+  width: 38px;
+  background-color: #fbf4eb;
+  border: 3px solid #FCEBD5;
+}
+#visitor .img-con {
+  overflow: hidden;
+  background-color: var(--Background-Normal, #EDD5BB);
+}
+#visitor .img-con .top {
+  white-space: nowrap;
+  animation: moveImagesLeft 45s linear infinite;
+  position: relative;
+  transform: translateX(-500px);
+}
+#visitor .img-con .top .img {
+  width: 209px;
+  height: 153px;
+  box-shadow: 3px 0px 3px rgba(0, 0, 0, 0.234), -5px 0 3px rgba(0, 0, 0, 0.238);
+}
+@keyframes moveImagesLeft {
+  0% {
+    transform: translateX(0px);
+  }
+  100% {
+    transform: translateX(-500px);
+  }
+}
+#visitor .img-con .bottom {
+  white-space: nowrap;
+  animation: moveImagesRight 45s linear infinite;
+  position: relative;
+  transform: translateX(-500px);
+}
+#visitor .img-con .bottom .img {
+  width: 209px;
+  height: 153px;
+  box-shadow: 3px 0px 3px rgba(0, 0, 0, 0.234), -5px 0 3px rgba(0, 0, 0, 0.238);
+}
+@keyframes moveImagesRight {
+  0% {
+    transform: translateX(-500px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+#visitorListing {
+  background-color: #EDD5BB;
+  width: 100%;
+  transition: all ease 0.5s;
+  position: relative;
+}
+#visitorListing .filterBtn {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+#visitorFilter {
+  overflow: scroll;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 10rem;
+  background-color: #A16A5E;
+  position: fixed;
+  z-index: 9999;
+  color: #FCEBD5;
+  transition: all ease 0.5s;
+}
+#visitorFilter .line {
+  height: 2px;
+  width: 100%;
+  background-color: #FCEBD5;
+}
+#visitorFilter .byFilter {
+  color: #FCEBD5;
+  border-radius: 2px;
+  outline: none;
+  border: 1px solid #FCEBD5;
+  background-color: #A16A5E;
+}
+#visitorFilter .saveBtn {
+  position: absolute;
+  right: 10px;
+  bottom: -335px;
+}
+
+#artists {
+  height: 100%;
+  overflow: hidden;
+  background-color: #EDD5BB;
+}
+#artists .itemDetails {
+  background-color: #EDD5BB;
+}
+#artists .inner {
+  height: 120px;
+  border-radius: 2px;
+  background-color: var(--Primary-Default, #A16A5E);
+  color: var(--Background-Light, #FCEBD5);
+}
+#artists .innerEl {
+  height: 120px;
+  border-radius: 2px;
+  background-color: var(--Primary-Contrast, #D44C2E);
+  color: var(--Background-Light, #FCEBD5);
+}
+
+#chartCon {
+  background-color: #FCEBD5;
+}
+#chartCon .infoDisplay {
+  display: flex;
+  flex-direction: column;
+  color: #A16A5E;
+}
+#chartCon .btnCon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#chartCon .btnCon .dayBtn {
+  border: none;
+  background-color: #A16A5E;
+  color: #FCEBD5;
+  padding: 3px 8px 3px 8px;
+  border-radius: 3px;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+}
+
+#artistsItems {
+  background-color: #EDD5BB;
+}
+#artistsItems .con {
+  background-color: #EDD5BB;
+}
+#artistsItems .con .addItem {
+  background-color: #FCEBD5;
+}
+
+#artistItemAdd {
+  background-color: #A16A5E;
+  color: #FCEBD5;
+}
+#artistItemAdd input {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemAdd select {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+  padding: 2.5px 0 2.5px 0;
+}
+#artistItemAdd textarea {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemAdd .subBtn {
+  outline: none;
+  color: var(--Background-Light, #FCEBD5);
+  background-color: var(--Primary-Contrast, #D44C2E);
+  border: none;
+}
+#artistItemAdd .cancelBtn {
+  outline: none;
+  color: var(--Text-Default, #5A5A5A);
+  background-color: var(--Background-Gray, #E5E5E5);
+  border: none;
+}
+#artistItemAdd .canvasCon {
+  position: relative;
+}
+#artistItemAdd .canvasEls {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#artistItemEdit {
+  background-color: #A16A5E;
+  color: #FCEBD5;
+}
+#artistItemEdit input {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemEdit select {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+  padding: 2.5px 0 2.5px 0;
+}
+#artistItemEdit textarea {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemEdit .subBtn {
+  outline: none;
+  color: var(--Background-Light, #FCEBD5);
+  background-color: var(--Primary-Contrast, #D44C2E);
+  border: none;
+}
+#artistItemEdit .cancelBtnEdit {
+  outline: none;
+  color: var(--Text-Default, #5A5A5A);
+  background-color: var(--Background-Gray, #E5E5E5);
+  border: none;
+}
+#artistItemEdit .canvasCon {
+  position: relative;
+}
+#artistItemEdit .canvasEls {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#cameraCanvas {
+  height: calc(100vh - 70.4px);
+  background-color: #A16A5E;
+}
+#cameraCanvas .snapBtn {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#cameraCanvas #toggleCameraBtn {
+  outline: none;
+  border: none;
+  background-color: #FCEBD5;
+  color: #A16A5E;
+  border-radius: 3px;
+}
+
+#cameraCanvasEdit {
+  height: calc(100vh - 70.4px);
+  background-color: #A16A5E;
+}
+#cameraCanvasEdit .snapBtnEdit {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#cameraCanvasEdit #toggleCameraBtnEdit {
+  outline: none;
+  border: none;
+  background-color: #FCEBD5;
+  color: #A16A5E;
+  border-radius: 3px;
+}
+
+#bid {
+  outline: none;
+  background-color: #FCEBD5;
+  color: #A16A5E;
+  border: 1px solid #A16A5E;
+  border-radius: 10px;
+  padding: 3px 8px 3px 8px;
+}
+
+#bidBtn {
+  outline: none;
+  background-color: #FCEBD5;
+  color: #A16A5E;
+  border: 1px solid #A16A5E;
+  border-radius: 10px;
+  padding: 3px 8px 3px 8px;
+  margin-left: 10px;
+  transition: all 0.5s ease;
+}
+#bidBtn:hover {
+  background-color: #A16A5E;
+  color: #FCEBD5;
+  transition: all 0.5s ease;
+}
+
+body {
+  background-color: #FCEBD5;
+  font-family: "Roboto", sans-serif;
+}
+
+#navbar {
+  display: none;
+}
+
+#artistNav {
+  display: none;
+}
+
+.warning-box {
+  height: 99999px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  z-index: 9999999;
+  display: none;
+}
+@media (min-width: 700px) {
+  .warning-box {
+    display: block;
+  }
+}
+.warning-box .warning {
+  display: none;
+  width: 270px;
+  position: absolute;
+  border-radius: 20px;
+  top: 300px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #A16A5E;
+  z-index: 9999;
+}
+.warning-box .warning p {
+  padding: 2rem;
+  color: var(--Background-Light, #FCEBD5);
+}
+@media (min-width: 700px) {
+  .warning-box .warning {
+    display: block;
+  }
+}
+
+.header {
+  background: var(--Background-Light, #FCEBD5);
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+  position: relative;
+  width: 100%;
+}
+.header .title {
+  color: var(--Primary-Default, #A16A5E);
+  font-family: "Reenie Beanie", cursive;
+}
+
+nav {
+  width: 100%;
+  position: relative;
+  z-index: 99;
+  transition: all ease 0.5s;
+}
+nav .logo {
+  width: 104px;
+  height: 104px;
+  position: absolute;
+  top: -5px;
+  left: 0;
+  z-index: 999;
+}
+nav .wrapper .iconAuction {
+  width: 33px;
+  height: 33px;
+}
+nav .wrapper .title {
+  margin-right: 10rem;
+}
+@media (max-width: 540px) {
+  nav .wrapper .title {
+    margin-right: 3rem;
+  }
+}
+@media (max-width: 425px) {
+  nav .wrapper .title {
+    position: relative;
+    left: 1rem;
+  }
+}
+@media (max-width: 390px) {
+  nav .wrapper .title {
+    position: relative;
+    left: 2rem;
+  }
+}
+@media (max-width: 350px) {
+  nav .wrapper .title {
+    position: relative;
+    left: 3rem;
+  }
+}
+
+.show {
+  position: absolute;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 191px;
+  background-color: #A16A5E;
+  z-index: 99;
+  transition: all ease 0.5s;
+  top: 70.4px;
+}
+.show .big-font {
+  font-size: 32px;
+}
+.show .big-font a {
+  color: var(--Background-Light, #FCEBD5);
+  font-weight: 300;
+  letter-spacing: 3.2px;
+}
+
+.hide {
+  position: absolute;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 191px;
+  background-color: rgb(161, 106, 94);
+  z-index: 99;
+  transition: all ease 0.5s;
+  top: -100%;
+}
+.hide .big-font {
+  font-size: 32px;
+}
+.hide .big-font a {
+  color: var(--Background-Light, #FCEBD5);
+  font-weight: 300;
+  letter-spacing: 3.2px;
+}
+
+.boorder {
+  border: 3px dashed #A16A5E;
+  color: #A16A5E;
+}
+
+.font-size {
+  font-size: 20px;
+}
+
+.small {
+  font-size: smaller;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 10%;
+}
+
+.right {
+  justify-content: right;
+}
+
+.dark-bg {
+  background-color: #A16A5E;
+  color: #FCEBD5;
+}
+
+.light-bg {
+  background-color: #FCEBD5;
+  color: #A16A5E;
+}
+
+.price {
+  border: none;
+  border-radius: 5px;
+}
+
+.artistFont {
+  font-family: "Reenie Beanie", cursive;
+}
+
+.ml-7 {
+  margin-left: 5rem;
+}
+@media (max-width: 350px) {
+  .ml-7 {
+    margin-left: 2rem;
+  }
+}
+
+.controlBtn {
+  border-radius: 2px;
+  border: none;
+  padding: 3px 5px 3px 5px;
+}
+
+.blue {
+  background-color: var(--Primary-Blue, #1B59AC);
+  color: var(--Text-White, #F8F8F8);
+}
+
+.lightGrey {
+  background-color: var(--Background-Gray, #E5E5E5);
+  color: var(--Text-Default, #5A5A5A);
+}
+
+.orange {
+  background-color: var(--Primary-Contrast, #D44C2E);
+  color: var(--Background-Light, #FCEBD5);
+}
+
+.green {
+  background-color: var(--Primary-Green, #1BAC6F);
+  color: var(--Text-White, #F8F8F8);
+}
+
+.dateColor {
+  color: var(--Background-Dark, #E09686);
+}
+
+.auctionContentColor {
+  color: #A16A5E;
+}
+
+#auctionPriceInfo {
+  display: block;
+}
+
+.fit-content {
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 3px 10px 3px 10px;
+  border-radius: 20px;
+}
+
+.card .card-img {
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+}
+.card .card-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.artistCard .card-img {
+  width: 100%;
+  height: 160px;
+  overflow: hidden;
+}
+.artistCard .card-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.box-shadow {
+  box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.padYX {
+  border: 3px dashed #FCEBD5;
+}
+
+.padX {
+  padding: 0 15px 0 15px;
+}
+@media (max-width: 350px) {
+  .padX {
+    padding: 0 3px 0 3px;
+  }
+}/*# sourceMappingURL=main.css.map */

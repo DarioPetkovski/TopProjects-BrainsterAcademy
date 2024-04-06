@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Street Artists</title>
+        <meta charset="utf-8" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+
+        <!-- Latest compiled and minified Bootstrap 4.6 CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+        <!-- CSS script -->
+        <link rel="stylesheet" href="./main.css">
+        <!-- Latest Font-Awesome CDN -->
+        <script src="https://kit.fontawesome.com/15312b0711.js" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script type="module" src="./main.js"></script>
+    </head>
+    <body>
+
+        <main>
+            
+            <div class="warning-box">
+                <div class="warning text-center">
+                    <p>For better use please open this site on mobile devices (700px resolution)</p>
+                </div>
+            </div>
+            
+            <section id="visitorFilter">
+                <nav id="navbarFilter">
+                    <header class="header">
+                        <div class="container-fluid d-flex justify-content-between align-items-center wrapper py-3">
+                            <a href="#landingPage">
+                                <div class="logo">
+                                    <img src="./imgs/Logo.png" alt="" class="logo">
+                                </div>
+                            </a>
+                            <h2 class="title mb-0">Street ARTists</h2>
+                            <a href="#auction"><img src="./imgs/ri_auction-fill.png" alt="" class="icon"></a>
+                        </div>
+                    </header>
+                </nav>
+                <header>
+                    <div class="container-fluid d-flex justify-content-between align-items-center py-3">
+                        <h2>Filter by</h2>
+                        <img src="./imgs/cross.png" alt="" class="cross">
+                    </div>
+                </header>
+                <form id="formFilter">
+
+                    <div class="container-fluid">
+                    <div class="row pb-5">
+                        <div class="col-5">
+                            <h5 class="pb-3">By item Title</h5>
+                            <input type="text" class="w-75 byFilter" id="byTitle">
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                    <div class="row pt-5">
+                        <div class="col-5 pb-5">
+                            <h5 class="pb-3">By Artist</h5>
+                            <select id="filterArtists" class="byFilter w-75 pl-1 py-1">
+                                <option value="" >Choose</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                    <div class="row pt-5"> 
+                        <div class="col-12 pb-5">
+                            <h5 class="pb-3">By Price</h5>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex">
+                                    <label for="min">Min:</label>
+                                    <input type="number" class="byFilter col-6 ml-2" id="min">
+                                </div>
+                                <div class="d-flex right">
+                                    <label for="max">Max:</label>
+                                    <input type="number" class="byFilter col-6 ml-2" id="max">
+                                </div>
+                             </div>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                    <div class="row py-5">
+                        <div class="col-5 selectType">
+                            <h5 class="pb-3">By item Type</h5>
+                            <select id="filterType" class="byFilter w-75 pl-1 py-1">
+                                <option value="" >Choose</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                    <label for="saveBtn"><img src="./imgs/saveBtn.png" alt="" class="saveBtn mt-5"></label>
+                    <input type="submit" class="d-none" id="saveBtn"> 
+                </div>
+                </form>    
+            </section>
+
+
+            <nav id="navbar">
+                <header class="header">
+                    <div class="container-fluid d-flex justify-content-between align-items-center wrapper py-3">
+                        <a href="#landingPage">
+                            <div class="logo">
+                                <img src="./imgs/Logo.png" alt="" class="logo">
+                            </div>
+                        </a>
+                        <h2 class="title mb-0">Street ARTists</h2>
+                        <a href="#auction"><img src="./imgs/ri_auction-fill.png" alt="" class="iconAuction"></a>
+                    </div>
+                </header>
+            </nav>
+
+            <div class="py-4 text-center dropDown hide" id="dropDown">
+                <ul type="none" class="big-font m-0 p-0">
+                    <a href="#artists" class="clickLink"><li>Home</li></a>
+                    <a href="#artistsItems" class="clickLink"><li>Items</li></a>
+                    <a href="#auction" class="clickLink"><li>Auction</li></a>
+                </ul>
+            </div>
+
+            <nav id="artistNav">
+                <header class="header">
+                    <div class="container-fluid d-flex justify-content-between align-items-center wrapper py-3">
+                        <a href="#landingPage">
+                            <div class="logo">
+                                <img src="./imgs/Logo.png" alt="" class="logo">
+                            </div>
+                        </a>
+                        <h2 class="title mb-0 ml-7 artistName"></h2>
+                        <img src="./imgs/hamBtn.png" alt="" class="hambtn" id="hamBtn">
+                    </div>
+                </header>
+            </nav>
+
+            <section id="landingPage" class="page">
+                <header class="header">
+                    <div class="text-center py-3 titleBox">
+                        <h2 class="title m-0">Street ARTists</h2>
+                    </div>
+                </header>
+                <div class="d-flex justify-content-center align-items-center">
+                    <img src="./imgs/Logo.png" alt="">
+                </div>
+                <div class="container d-flex justify-content-center align-items-center flex-column">
+                    <div>
+                        <a href="#artists" class="artistBtn">
+                            <div class="wrapper-one">
+                                <div class="first-wrapper text-center">
+                                    <h1 class="mt-5">Join as Artist</h1>
+                                    <select name="Artists" id="artistSelect" class="px-3 py-1">
+                                        <option value="">choose</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="#visitor">
+                            <div class="wrapper-two">
+                                <div class="second-wrapper text-center">
+                                    <h1 class="visitor-title mb-5">Join as Visitor</h1>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+
+            <section id="visitor" class="page">
+                <div class="container-fluid banner d-flex py-5 justify-content-between align-items-center px-3">
+                    <h1>Looking for masterpiece?</h1>
+                    <a href="#visitorListing" class="itemBtn py-1 px-2">Find one now!</a>
+                </div>
+
+                <div class="img-con py-5">
+                    <div class="container-fluid top">
+                        <a href="#visitorListing">
+                            <img src="./imgs/Rectangle 7.png" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/img2.jpg" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/img3.jpg" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/Rectangle 10.png" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/img4.jpeg" alt="" class="img mr-4">
+                        </a>
+                    </div>
+                    <div class="container-fluid bottom mt-5">
+                        <a href="#visitorListing">
+                            <img src="./imgs/Rectangle 7.png" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/img2.jpg" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/img3.jpg" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/Rectangle 10.png" alt="" class="img mr-4">
+                        </a>
+                        <a href="#visitorListing">
+                            <img src="./imgs/img4.jpeg" alt="" class="img mr-4">
+                        </a>
+                    </div>
+                </div>
+
+                <div id="carouselExampleIndicators" class="carousel slide carousel-slide"  data-ride="carousel">
+                    <div class="carousel-inner">
+                       <div class="carousel-item active">
+                           <div class="item small">
+                                <div class="left">
+                                    <div class="card">
+                                        <div class="content">
+                                            <img src="./imgs/profilepic3.jpg" alt="">
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, beatae?</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="line"></div>
+                                <div class="right">
+                                    <div class="card">
+                                        <div class="content">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, voluptates?</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                       </div>
+                            <div class="carousel-item">
+                                <div class="item small">
+                                    <div class="left">
+                                        <div class="card">
+                                            <div class="content">
+                                                <img src="./imgs/profilepic2.jpg" alt="">
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, beatae?</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="right">
+                                        <div class="card">
+                                            <div class="content">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, voluptates?</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="item small">
+                                    <div class="left">
+                                        <div class="card">
+                                            <div class="content">
+                                                <img src="./imgs/profileimg4.jpg" alt="">
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, beatae?</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="line"></div>
+                                    <div class="right">
+                                        <div class="card">
+                                            <div class="content">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, voluptates?</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span aria-hidden="true"><img src="./imgs/leftArrow.png" alt=""></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span aria-hidden="true"><img src="./imgs/rightArrow.png" alt=""></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </section>
+
+            
+
+            <section id="visitorListing" class="page">
+                <div class="list py-5">
+
+                </div>
+                <img src="./imgs/controler.png" alt="" class="filterBtn">
+            </section>
+
+
+            <section id="artists" class="page">
+                <div class="container-fluid pb-3 itemDetails">
+                    <div class="row py-3">
+                        <div class="col-6">
+                            <div class="inner text-center">
+                                <p class="pt-3">Total Items Sold</p>
+                                <h1><span class="itemsSold"></span>/<span class="allItems"></span></h1>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="inner text-center">
+                                <p class="pt-3">Total Income</p>
+                                <h1 class="totalPrice"></h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="#auction">
+                                <div class="innerEl text-center py-3 liveAuction">
+                                    <p class="m-0">Live Auction Item</p>
+                                    <h1 class="m-0" id="livePrice"></h1>
+                                    <p class="m-0">current bid</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div id="chartCon" class="container-fluid m-0 py-4" style="position: relative; height:100%; width:100vw">
+                    <div class="infoDisplay">
+                        <h4>Display my info for last</h4>
+                        <div class="btnCon py-4">
+                            <button class="dayBtn seven">7 days</button>
+                            <button class="dayBtn fourtheen">14 days</button>
+                            <button class="dayBtn thirty">30 days</button>
+                        </div>
+                    </div>
+                    <canvas id="myChart" class="w-100"></canvas>
+                  </div>
+            </section>
+
+            <section id="artistsItems" class="page">
+                <div class="container-fluid con pt-4 px-0">
+                    <div class="container-fluid addItem py-3 box-shadow">
+                        <p class="m-0 font-size py-5 boorder text-center">+ Add new Item</p>
+                    </div>
+                    <div class="artistsItems py-4">
+                    </div>
+                </div>
+            </section>
+
+            <section id="artistItemAdd" class="page">
+                <div class="container-fluid">
+                    <form id="formAddItem">
+                        <div class="container-fluid d-flex justify-content-between align-items-center pt-4 px-0">
+                            <h3>Add new Item</h3>
+                            <div>
+                                <label for="publishBtn">is published</label>
+                                <input type="checkbox" checked id="publishBtn">
+                            </div>
+                        </div>
+                        <div class="firstInputRow mt-2">
+                            <label for="titleAdd" class="mb-0">Title</label>
+                            <input type="text" id="titleAdd" class="w-100" required>
+                        </div>
+                        <div class="secondInputRow mt-4">
+                            <label for="descriptionAdd" class="mb-0">Descroption</label>
+                            <textarea id="descriptionAdd" cols="30" rows="3" class="w-100" required></textarea>
+                        </div>
+                        <div class="thirdInputRow d-flex justify-content-between align-items-center mt-4">
+                            <div class="firstInnerInputRow d-flex justify-content-between align-items-right flex-column">
+                                <label for="typeAdd" class="mb-0">Type</label>
+                                <select id="typeAdd" class="w-100 px-3" required>
+                                    <option value="">choose</option>
+                                </select>
+                            </div>
+                            <div class="secondInnerInputRow d-flex justify-content-between align-items-right flex-column">
+                                <label for="priceAdd" class="mb-0">Price</label>
+                                <input type="number" id="priceAdd" class="w-100" required>
+                            </div>
+                        </div>
+                        <div class="fourthInputRow mt-4">
+                            <label for="imgURL" class="mb-0">Image URL</label>
+                            <input type="text" id="imgURL" class="w-100" required>
+                        </div>
+                        <div class="container-fluid text-center">
+                            <p class="mb-0 py-2">or</p>
+                        </div>
+                        <div class="container-fluid d-flex justify-content-center align-items-center flex-column padYX canvasCon p-0" id="canvasCon">
+                            <div class="w-100">
+                                <canvas id="photoCanvas" class="w-100" height="230px"></canvas>
+                            </div>
+                            <div class="canvasEls d-flex justify-content-between align-items-center flex-column">
+                                <img src="./imgs/fa-solid_camera.png" alt="" id="cameraBtn" class="camera">
+                                 <p class="content" id="canvasContent">Take a snapshot</p>
+                            </div>
+                        </div>
+                        <div class="buttonRow py-4 d-flex justify-content-between align-items-center">
+                            <button type="submit" id="addItemSubBtn" class="subBtn px-4 py-1 box-shadow">Add New Item</button>
+                            <button class="cancelBtn px-4 py-1 box-shadow" id="cancelBtn">Cancel</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+
+            <section id="artistItemEdit" class="page">
+                <div class="container-fluid">
+                    <form id="formEditItem">
+                        <div class="container-fluid d-flex justify-content-between align-items-center pt-4 px-0">
+                            <h3>Edit Item</h3>
+                            <div>
+                                <label for="publishBtnEdit">is published</label>
+                                <input type="checkbox" checked id="publishBtnEdit">
+                            </div>
+                        </div>
+                        <div class="firstInputRow mt-2">
+                            <label for="titleAddEdit" class="mb-0">Title</label>
+                            <input type="text" id="titleAddEdit" class="w-100" required>
+                        </div>
+                        <div class="secondInputRow mt-4">
+                            <label for="descriptionAddEdit" class="mb-0">Descroption</label>
+                            <textarea id="descriptionAddEdit" cols="30" rows="3" class="w-100" required></textarea>
+                        </div>
+                        <div class="thirdInputRow d-flex justify-content-between align-items-center mt-4">
+                            <div class="firstInnerInputRow d-flex justify-content-between align-items-right flex-column">
+                                <label for="typeAddEdit" class="mb-0">Type</label>
+                                <select id="typeAddEdit" class="w-100 px-3" required>
+                                    <option value="">choose</option>
+                                </select>
+                            </div>
+                            <div class="secondInnerInputRow d-flex justify-content-between align-items-right flex-column">
+                                <label for="priceAddEdit" class="mb-0">Price</label>
+                                <input type="number" id="priceAddEdit" class="w-100" required>
+                            </div>
+                        </div>
+                        <div class="fourthInputRow mt-4">
+                            <label for="imgURLEdit" class="mb-0">Image URL</label>
+                            <input type="text" id="imgURLEdit" class="w-100" required>
+                        </div>
+                        <div class="container-fluid text-center">
+                            <p class="mb-0 py-2">or</p>
+                        </div>
+                        <div class="container-fluid d-flex justify-content-center align-items-center flex-column padYX canvasCon p-0" id="canvasConEdit">
+                            <div class="w-100">
+                                <canvas id="photoCanvasEdit" class="w-100" height="230px"></canvas>
+                            </div>
+                            <div class="canvasEls d-flex justify-content-between align-items-center flex-column">
+                                <img src="./imgs/fa-solid_camera.png" alt="" id="btnCameraEdit" class="camera">
+                                <p class="content" id="canvasContentEdit">Take a snapshot</p>
+                            </div>
+                        </div>
+                        <div class="buttonRow py-4 d-flex justify-content-between align-items-center">
+                            <button type="submit" id="addItemSubBtnEdit" class="subBtn px-4 py-1 box-shadow">Edit Item</button>
+                            <button class="cancelBtnEdit px-4 py-1 box-shadow">Cancel</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+            <section id="cameraCanvas" class="page">
+                <div class="container-fluid py-3">
+                <button id="toggleCameraBtn" class="mb-3">change Camera</button>
+                <video id="cameraFeed" width="100%" height="390px" autoplay></video>
+                <img id="capturedPhoto" alt="Captured Photo" class="d-none">
+                <img src="./imgs/fa-solid_camera.png" alt="" class="snapBtn">
+                </div>
+            </section>
+            <section id="cameraCanvasEdit" class="page">
+                <div class="container-fluid py-3">
+                <button id="toggleCameraBtnEdit" class="mb-3">change Camera</button>
+                <video id="cameraFeedEdit" width="100%" height="390px" autoplay></video>
+                <img id="capturedPhotoEdit" alt="Captured Photo" class="d-none">
+                <img src="./imgs/fa-solid_camera.png" alt="" class="snapBtnEdit">
+                </div>
+            </section>
+
+            <section id="auction" class="page">
+                <h4 class="auctionContentColor mt-4" id="auctionContent">There is no auctioning items</h4>
+                <div id="auctionList"></div>
+                <h2 class="auctionContentColor text-center" id="finishAucContent">Auction Finish!</h2>
+                <h2 id="timer" class="auctionContentColor text-center"></h2>
+                <div class="d-flex justify-content-center align-items-center">
+                    <input type="number" id="bid">
+                    <button id="bidBtn">bid</button>
+                </div>
+                <small class="auctionContentColor text-center " id="auctionPriceInfo">you must enter +50 higher bid than the item's price</small>
+                <ul id="priceList" class="auctionContentColor" type="none"></ul>
+            </section>
+
+            
+        </main>
+        
+        <!-- jQuery library -->
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="ha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        
+        <!-- Latest Compiled Bootstrap 4.6 JavaScript -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    </body>
+</html>

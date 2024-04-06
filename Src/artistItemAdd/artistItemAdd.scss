@@ -1,0 +1,124 @@
+#artistItemAdd{
+    background-color:  #A16A5E;
+    color: #FCEBD5;
+    input{
+        background-color: #A16A5E;
+        outline: none;
+        color: #FCEBD5;
+        border: 1px solid #FCEBD5;
+    }
+    select{
+        background-color: #A16A5E;
+        outline: none;
+        color: #FCEBD5;
+        border: 1px solid #FCEBD5;
+        padding: 2.5px 0 2.5px 0;
+    }
+    textarea{
+        background-color: #A16A5E;
+        outline: none;
+        color: #FCEBD5;
+        border: 1px solid #FCEBD5;
+    }
+    .subBtn{
+        outline: none;
+        color: var(--Background-Light, #FCEBD5);
+        background-color: var(--Primary-Contrast, #D44C2E);
+        border: none;
+    }
+    .cancelBtn{
+        outline: none;
+        color: var(--Text-Default, #5A5A5A);
+        background-color: var(--Background-Gray, #E5E5E5);
+        border: none;
+    }
+    .canvasCon{
+        position: relative;
+    }
+    .canvasEls{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    
+}
+#artistItemEdit{
+    background-color:  #A16A5E;
+    color: #FCEBD5;
+    input{
+        background-color: #A16A5E;
+        outline: none;
+        color: #FCEBD5;
+        border: 1px solid #FCEBD5;
+    }
+    select{
+        background-color: #A16A5E;
+        outline: none;
+        color: #FCEBD5;
+        border: 1px solid #FCEBD5;
+        padding: 2.5px 0 2.5px 0;
+    }
+    textarea{
+        background-color: #A16A5E;
+        outline: none;
+        color: #FCEBD5;
+        border: 1px solid #FCEBD5;
+    }
+    .subBtn{
+        outline: none;
+        color: var(--Background-Light, #FCEBD5);
+        background-color: var(--Primary-Contrast, #D44C2E);
+        border: none;
+    }
+    .cancelBtnEdit{
+        outline: none;
+        color: var(--Text-Default, #5A5A5A);
+        background-color: var(--Background-Gray, #E5E5E5);
+        border: none;
+    }
+    .canvasCon{
+        position: relative;
+    }
+    .canvasEls{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+}
+
+#cameraCanvas{
+    height: calc(100vh - 70.4px);
+    background-color: #A16A5E;
+    .snapBtn{
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #toggleCameraBtn{
+        outline: none;
+        border: none;
+        background-color: #FCEBD5;
+        color: #A16A5E;
+        border-radius: 3px;
+    }
+}
+#cameraCanvasEdit{
+    height: calc(100vh - 70.4px);
+    background-color: #A16A5E;
+    .snapBtnEdit{
+        position: absolute;
+        bottom: 50px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #toggleCameraBtnEdit{
+        outline: none;
+        border: none;
+        background-color: #FCEBD5;
+        color: #A16A5E;
+        border-radius: 3px;
+    }
+}

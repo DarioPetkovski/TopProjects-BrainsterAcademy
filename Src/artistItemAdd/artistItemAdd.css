@@ -1,0 +1,125 @@
+#artistItemAdd {
+  background-color: #A16A5E;
+  color: #FCEBD5;
+}
+#artistItemAdd input {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemAdd select {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+  padding: 2.5px 0 2.5px 0;
+}
+#artistItemAdd textarea {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemAdd .subBtn {
+  outline: none;
+  color: var(--Background-Light, #FCEBD5);
+  background-color: var(--Primary-Contrast, #D44C2E);
+  border: none;
+}
+#artistItemAdd .cancelBtn {
+  outline: none;
+  color: var(--Text-Default, #5A5A5A);
+  background-color: var(--Background-Gray, #E5E5E5);
+  border: none;
+}
+#artistItemAdd .canvasCon {
+  position: relative;
+}
+#artistItemAdd .canvasEls {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#artistItemEdit {
+  background-color: #A16A5E;
+  color: #FCEBD5;
+}
+#artistItemEdit input {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemEdit select {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+  padding: 2.5px 0 2.5px 0;
+}
+#artistItemEdit textarea {
+  background-color: #A16A5E;
+  outline: none;
+  color: #FCEBD5;
+  border: 1px solid #FCEBD5;
+}
+#artistItemEdit .subBtn {
+  outline: none;
+  color: var(--Background-Light, #FCEBD5);
+  background-color: var(--Primary-Contrast, #D44C2E);
+  border: none;
+}
+#artistItemEdit .cancelBtnEdit {
+  outline: none;
+  color: var(--Text-Default, #5A5A5A);
+  background-color: var(--Background-Gray, #E5E5E5);
+  border: none;
+}
+#artistItemEdit .canvasCon {
+  position: relative;
+}
+#artistItemEdit .canvasEls {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#cameraCanvas {
+  height: calc(100vh - 70.4px);
+  background-color: #A16A5E;
+}
+#cameraCanvas .snapBtn {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#cameraCanvas #toggleCameraBtn {
+  outline: none;
+  border: none;
+  background-color: #FCEBD5;
+  color: #A16A5E;
+  border-radius: 3px;
+}
+
+#cameraCanvasEdit {
+  height: calc(100vh - 70.4px);
+  background-color: #A16A5E;
+}
+#cameraCanvasEdit .snapBtnEdit {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#cameraCanvasEdit #toggleCameraBtnEdit {
+  outline: none;
+  border: none;
+  background-color: #FCEBD5;
+  color: #A16A5E;
+  border-radius: 3px;
+}/*# sourceMappingURL=artistItemAdd.css.map */

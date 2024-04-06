@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import "./Src/landingPage/landingPage.scss";
+@import "./Src/visitor/visitor.scss";
+@import "./Src/visitorListing/visitorListing.scss";
+@import "./Src/visitorFiltering/visitorFiltering.scss";
+@import "./Src/artists/artists.scss";
+@import "./Src/artistsItems/artistsItems.scss";
+@import "./Src/artistItemAdd/artistItemAdd.scss";
+@import "./Src/auction/auction.scss";
+
+body{
+    background-color:#FCEBD5;
+    font-family: 'Roboto', sans-serif;
+}
+#navbar{
+    display: none;
+}
+#artistNav{
+    display: none;
+}
+.warning-box{
+    height: 99999px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    z-index: 9999999;
+    display: none;
+    @media(min-width:700px){
+        display: block;
+    }
+    .warning{
+        display: none;
+        width: 270px;
+        position: absolute;
+        border-radius: 20px;
+        top: 300px;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        background-color: #A16A5E;
+        z-index: 9999;
+        p{
+            padding: 2rem;
+            color: var(--Background-Light, #FCEBD5);
+        }
+        @media (min-width: 700px){
+            display: block;
+        }
+    }
+}
+
+.header{
+    background: var(--Background-Light, #FCEBD5);
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+    position: relative;
+    width: 100%;
+    .title{
+        color: var(--Primary-Default, #A16A5E);
+        font-family: 'Reenie Beanie', cursive;
+    }
+}
+
+nav{
+    width: 100%;
+    position: relative;
+    z-index: 99;
+    transition: all ease 0.5s;
+    .logo{
+        width: 104px;
+        height: 104px;
+        position: absolute;
+        top: -5px;
+        left: 0;
+        z-index: 999;
+    }
+    .wrapper{
+        .iconAuction{
+            width: 33px;
+            height: 33px;
+        }
+        .title{
+            margin-right: 10rem;
+            @media(max-width: 540px){
+                margin-right: 3rem;
+            }
+            @media(max-width: 425px){
+                position: relative;
+                left: 1rem;
+            }
+            @media(max-width: 390px){
+                position: relative;
+                left: 2rem;
+            }
+            @media(max-width: 350px){
+                position: relative;
+                left: 3rem;
+            }
+            
+        }
+    }
+}
+
+    .show{
+        position: absolute;
+        box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+        width: 100%;
+        height: 191px;
+        background-color: #A16A5E;
+        z-index: 99;
+        transition: all ease 0.5s;
+        top: 70.4px;
+        .big-font{
+            font-size: 32px;
+            a{
+                color: var(--Background-Light, #FCEBD5);
+                font-weight: 300;
+                letter-spacing: 3.2px;
+            }
+        }
+    }
+    .hide{
+        position: absolute;
+        box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+        width: 100%;
+        height: 191px;
+        background-color: rgb(161, 106, 94);
+        z-index: 99;
+        transition: all ease 0.5s;
+        top: -100%;
+        .big-font{
+            font-size: 32px;
+            a{
+                color: var(--Background-Light, #FCEBD5);
+                font-weight: 300;
+                letter-spacing: 3.2px;
+            }
+        }
+    }
+
+
+.boorder{
+    border: 3px dashed #A16A5E;
+    color: #A16A5E;
+}
+.font-size{
+    font-size: 20px;
+}
+.small{
+    font-size: smaller;
+}
+.carousel-control-next, .carousel-control-prev{
+    width: 10%;
+}
+.right{
+    justify-content: right;
+}
+.dark-bg{
+    background-color: #A16A5E;
+    color: #FCEBD5;
+}
+.light-bg{
+    background-color: #FCEBD5;
+    color: #A16A5E;
+}
+.price{
+    border: none;
+    border-radius: 5px;
+}
+.artistFont{
+    font-family: 'Reenie Beanie', cursive;
+}
+.ml-7{
+    margin-left: 5rem;
+    @media(max-width:350px){
+        margin-left: 2rem;
+    }
+}
+.controlBtn{
+    border-radius: 2px;
+    border: none;
+    padding: 3px 5px 3px 5px;
+}
+.blue{
+    background-color: var(--Primary-Blue, #1B59AC);
+    color: var(--Text-White, #F8F8F8);
+}
+.lightGrey{
+    background-color: var(--Background-Gray, #E5E5E5);
+    color: var(--Text-Default, #5A5A5A);
+}
+.orange{
+    background-color: var(--Primary-Contrast, #D44C2E);
+    color: var(--Background-Light, #FCEBD5);
+}
+.green{
+    background-color: var(--Primary-Green, #1BAC6F);
+    color: var(--Text-White, #F8F8F8);
+}
+.dateColor{
+    color: var(--Background-Dark, #E09686);
+}
+.auctionContentColor{
+    color: #A16A5E;
+}
+#auctionPriceInfo{
+    display: block;
+}
+.fit-content{
+    width: fit-content;
+    padding: 3px 10px 3px 10px;
+    border-radius: 20px;
+}
+.card{
+    .card-img{
+        width: 100%;
+        height: 160px;
+        overflow: hidden;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+    }
+}
+.artistCard{
+    .card-img{
+        width: 100%;
+        height: 160px;
+        overflow: hidden;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+    }
+}
+
+.box-shadow{
+    box-shadow: 5px 2px 5px rgba(0,0,0,0.5);
+}
+.padYX{
+    border: 3px dashed #FCEBD5;
+}
+.padX{
+    padding: 0 15px 0 15px;
+    @media(max-width:350px){
+        padding: 0 3px 0 3px;
+    }
+}
+
+
+
+

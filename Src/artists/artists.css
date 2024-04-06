@@ -1,0 +1,42 @@
+#artists {
+  height: 100%;
+  overflow: hidden;
+  background-color: #EDD5BB;
+}
+#artists .itemDetails {
+  background-color: #EDD5BB;
+}
+#artists .inner {
+  height: 120px;
+  border-radius: 2px;
+  background-color: var(--Primary-Default, #A16A5E);
+  color: var(--Background-Light, #FCEBD5);
+}
+#artists .innerEl {
+  height: 120px;
+  border-radius: 2px;
+  background-color: var(--Primary-Contrast, #D44C2E);
+  color: var(--Background-Light, #FCEBD5);
+}
+
+#chartCon {
+  background-color: #FCEBD5;
+}
+#chartCon .infoDisplay {
+  display: flex;
+  flex-direction: column;
+  color: #A16A5E;
+}
+#chartCon .btnCon {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#chartCon .btnCon .dayBtn {
+  border: none;
+  background-color: #A16A5E;
+  color: #FCEBD5;
+  padding: 3px 8px 3px 8px;
+  border-radius: 3px;
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.25);
+}/*# sourceMappingURL=artists.css.map */

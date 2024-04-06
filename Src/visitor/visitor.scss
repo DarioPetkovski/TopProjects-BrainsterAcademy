@@ -1,0 +1,140 @@
+#visitor{
+    width: 100%;
+    background-color: #EDD5BB;
+    #carouselExampleIndicators{
+        background-color: #FCEBD5;
+        .item{
+            display: flex;
+            justify-content: center;
+            padding: 3rem;
+            text-align: center;
+            .line{
+                position: absolute;
+                top: 20px;
+                width: 1px;
+                height: 200px;
+                background-color: #A16A5E;
+                margin-left: 20px;
+            }
+            .left{
+                max-width: 120px;
+                min-width: 120px;
+                padding: 10px;
+                background-color: var(--Background-Dark, #E09686);
+                .card{
+                    padding-top: 20px;
+                    background-color: var(--Background-Dark, #E09686);
+                    border: none;
+                    color: #FCEBD5;
+                    position: relative;
+                    img{
+                        border-radius: 50%;
+                        width: 50px;
+                        height: 50px;
+                        position: absolute;
+                        top: -35px;
+                        right: 25px;
+                    }
+                    p{
+                        margin-bottom: 0;
+                    }
+                    
+                }
+            }
+            .right{
+                max-width: 120px;
+                min-width: 120px;
+                padding: 10px;
+                .card{
+                    background-color: #FCEBD5;
+                    border: none;
+                    color: #A16A5E;
+                    p{
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
+    .banner{
+        width: 100%;
+        background: url("/imgs/Bricks.png");
+        background-color: var(--Background-Light, #FCEBD5);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        h1{
+            font-size:xx-large;
+            font-weight:600;
+            width: 50%;
+            color: #A16A5E;
+        }
+        .itemBtn{
+            background-color: var(--Primary-Default, #A16A5E);
+            box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.25);
+            color: var(--Background-Light, #FCEBD5);
+            font-size: smaller;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+    }
+    .table-box{
+        background-color: #FCEBD5;
+        position: absolute;
+        z-index: -1;
+        .col-1{
+            padding: 0;
+        }
+        .block{
+            height: 25px;
+            width: 38px;
+            background-color: #fbf4eb;
+            border: 3px solid #FCEBD5;
+        }
+    }
+    .img-con{
+        overflow: hidden;
+        background-color: var(--Background-Normal, #EDD5BB);
+        .top{
+            white-space: nowrap;
+            animation: moveImagesLeft 45s linear infinite;
+            position: relative;
+            transform: translateX(-500px);
+            .img{
+                width: 209px;
+                height: 153px;
+                box-shadow: 3px 0px 3px rgba(0, 0, 0, 0.234), -5px 0 3px rgba(0, 0, 0, 0.238);
+            }
+
+            @keyframes moveImagesLeft {
+                0% {
+                    transform: translateX(0px);
+                }
+                100% {
+                    transform: translateX(-500px);
+                }
+            }
+        }
+        .bottom{
+            white-space: nowrap;
+            animation: moveImagesRight 45s linear infinite;
+            position: relative;
+            transform: translateX(-500px);
+            .img{
+                width: 209px;
+                height: 153px;
+                box-shadow: 3px 0px 3px rgba(0, 0, 0, 0.234), -5px 0 3px rgba(0, 0, 0, 0.238);
+            }
+
+            @keyframes moveImagesRight {
+                0% {
+                    transform: translateX(-500px);
+                }
+                100% {
+                    transform: translateX(0px);
+                }
+            }
+        }
+    }
+}

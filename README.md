@@ -4,7 +4,7 @@ This App is one of the mentorships on the brianster front end academy and it's u
 
 ## Clone this Repository
 
-https://github.com/DarioPetkovski/TopProjects-BrainsterAcademy/Order-App
+https://github.com/DarioPetkovski/TopProjects-BrainsterAcademy/tree/Order-App
 
 ## Instalation
 

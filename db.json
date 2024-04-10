@@ -1,0 +1,171 @@
+{
+  "services": [
+    {
+      "id": "479912135-db21-43d2-8397-fd374c452153",
+      "image": "/images/services/service-1.jpg",
+      "title": "Architecture",
+      "description": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "icon": "/images/icons/icon-5.png"
+    },
+    {
+      "id": "579912135-db21-43d2-8397-fd374c452153",
+      "image": "/images/services/service-2.jpg",
+      "title": "3D Animation",
+      "description": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "icon": "/images/icons/icon-6.png"
+    },
+    {
+      "id": "279912135-db21-43d2-8397-fd374c452153",
+      "image": "/images/services/service-3.jpg",
+      "title": "House Planning",
+      "description": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "icon": "/images/icons/icon-7.png"
+    },
+    {
+      "id": "179912135-db21-43d2-8397-fd374c452153",
+      "image": "/images/services/service-4.jpg",
+      "title": "Interior Design",
+      "description": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "icon": "/images/icons/icon-8.png"
+    },
+    {
+      "id": "079912135-db21-43d2-8397-fd374c452153",
+      "image": "/images/services/service-5.jpg",
+      "title": "Renovation",
+      "description": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "icon": "/images/icons/icon-9.png"
+    },
+    {
+      "id": "979912135-db21-43d2-8397-fd374c452153",
+      "image": "/images/services/service-6.jpg",
+      "title": "Construction",
+      "description": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+      "icon": "/images/icons/icon-10.png"
+    }
+  ],
+  "team": [
+    {
+      "id": "4799f135-db21-43d2-8397-fd374c452153",
+      "first_name": "Ximenez",
+      "last_name": "Sangwin",
+      "avatar": "/images/team/team-1.jpg",
+      "position": "Architect"
+    },
+    {
+      "id": "ce6ea86e-17e2-44ef-b19f-9ea9676a11cc",
+      "first_name": "Tallulah",
+      "last_name": "Mullen",
+      "avatar": "/images/team/team-2.jpg",
+      "position": "General laborer"
+    },
+    {
+      "id": "0fcf1388-d8aa-47a7-9a17-ff9b05fc7ae3",
+      "first_name": "Niko",
+      "last_name": "Vasyaev",
+      "avatar": "/images/team/team-3.jpg",
+      "position": "Human Resources"
+    },
+    {
+      "id": "ee2bdab5-3caa-433a-a385-c9bfa9b13641",
+      "first_name": "Howie",
+      "last_name": "Rupel",
+      "avatar": "/images/team/team-4.jpg",
+      "position": "Accounting"
+    },
+    {
+      "id": "0f22d484-d2ca-4d42-996a-7a55ea8f36a3",
+      "first_name": "Edouard",
+      "last_name": "Gronav",
+      "avatar": "/images/team/team-1.jpg",
+      "position": "Product Management"
+    },
+    {
+      "id": "50fa6242-2184-4543-9c34-13f066328462",
+      "first_name": "Gwennie",
+      "last_name": "Toomer",
+      "avatar": "/images/team/team-2.jpg",
+      "position": "Sales"
+    },
+    {
+      "id": "22662e25-a59d-4bd9-b74f-3eebcf9872ce",
+      "first_name": "Gloria",
+      "last_name": "Bon",
+      "avatar": "/images/team/team-3.jpg",
+      "position": "Project manager"
+    },
+    {
+      "id": "ba147e54-14bc-4c4f-8b42-72ef42e87889",
+      "first_name": "Lonnie",
+      "last_name": "O'Carran",
+      "avatar": "/images/team/team-4.jpg",
+      "position": "Research and Development"
+    }
+  ],
+  "homepage": {
+    "banner_content": {
+      "title": "Best Architecture And Interior Design Services",
+      "content": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr."
+    },
+    "services_block": {
+      "preTitle": "Our Services",
+      "title": "We Focused On Modern Architecture And Interior Design"
+    },
+    "team_block": {
+      "preTitle": "Team Members",
+      "title": "We Are Creative Architecture Team For Your Dream Home"
+    }
+  },
+  "about_page": {
+    "about_block": {
+      "preTitle": "About Us",
+      "title": "A Creative Architecture Agency For Your Dream Home",
+      "first_paragraph": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+      "second_paragraph": "Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.",
+      "years": "25",
+      "slogan": "Years Working Experience",
+      "image_one": "/images/about/about-1.jpg",
+      "image_two": "/images/about/about-2.jpg"
+    },
+    "feature_block": {
+      "preTitle": "Why Choose Us!",
+      "title": "Why You Should Trust Us? Learn More About Us!",
+      "first_paragraph": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+      "image_one": "/images/about/about-1.jpg",
+      "image_two": "/images/about/about-2.jpg",
+      "usp_items": [
+        {
+          "id": "ki147e54-14bc-4c4f-8b42-72ef42e87889",
+          "title": "Design Approach",
+          "content": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+          "icon": "/images/icons/icon-2.png"
+        },
+        {
+          "id": "ko147e54-14bc-4c4f-8b42-72ef42e87889",
+          "title": "Innovative Solutions",
+          "content": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+          "icon": "/images/icons/icon-3.png"
+        },
+        {
+          "id": "ka147e54-14bc-4c4f-8b42-72ef42e87889",
+          "title": "Project Management",
+          "content": "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+          "icon": "/images/icons/icon-4.png"
+        }
+      ]
+    },
+    "team_block": {
+      "preTitle": "Team Members",
+      "title": "A Creative Architecture Agency For Your Dream Home"
+    }
+  },
+  "services_page": {
+    "services_block": {
+      "preTitle": "Our Services",
+      "title": "We Focused On Modern Architecture And Interior Design"
+    },
+    "team_block": {
+      "preTitle": "Team Members",
+      "title": "We Are Creative Architecture Team For Your Dream Home"
+    }
+  }
+}

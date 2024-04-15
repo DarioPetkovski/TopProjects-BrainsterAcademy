@@ -1,0 +1,8 @@
+.catalogue {
+  padding: 8px 4px;
+  border: 2px solid var(--yellow);
+  color: black;
+}
+.font-bold {
+  font-weight: 600;
+}

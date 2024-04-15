@@ -1,0 +1,24 @@
+.logo-img {
+  max-width: 40px;
+}
+.icon-size {
+  max-width: 40px;
+  transition: transform 0.5s;
+}
+.icon-size:hover {
+  transform: scale(1.1);
+}
+.text-small {
+  font-size: 20px;
+}
+
+@media (max-width: 991px) {
+  .nav-desktop {
+    display: none;
+  }
+}
+@media (min-width: 992px) {
+  .nav-mobile {
+    display: none !important;
+  }
+}

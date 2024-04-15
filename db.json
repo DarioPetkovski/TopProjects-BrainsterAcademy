@@ -1,0 +1,495 @@
+{
+  "products": [
+    {
+      "name": "Nike",
+      "category": "footwear",
+      "image": "glasses.jpg",
+      "desc": "This one will do the job",
+      "price": 35,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": true,
+      "notifications": false,
+      "icon": "",
+      "reviews": [
+        {
+          "id": 0,
+          "name": "John",
+          "comment": "Great shoes!",
+          "rating": 5,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 1,
+          "name": "Emily",
+          "comment": "Comfortable and stylish!",
+          "rating": 4,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 2,
+          "name": "David",
+          "comment": "Not bad for the price.",
+          "rating": 3,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 6,
+          "name": "dasd",
+          "comment": "asdsa",
+          "rating": 3,
+          "img": "userlogo.png"
+        }
+      ],
+      "store": "5",
+      "id": "1",
+      "brand": "Nike",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "name": "Adidas",
+      "category": "footwear",
+      "image": "dryer.png",
+      "desc": "This one will do the job",
+      "price": 35,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": true,
+      "notifications": false,
+      "icon": "",
+      "reviews": [
+        {
+          "id": 0,
+          "name": "Sophia",
+          "comment": "Love the design!",
+          "rating": 5,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 1,
+          "name": "Oliver",
+          "comment": "Great fit!",
+          "rating": 4,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 2,
+          "name": "Emma",
+          "comment": "Good quality, comfortable.",
+          "rating": 4,
+          "img": "userlogo.png"
+        }
+      ],
+      "store": "5",
+      "brand": "Adidas",
+      "views": 150
+    },
+    {
+      "id": "3",
+      "name": "Reebok",
+      "category": "footwear",
+      "image": "mic.jpg",
+      "desc": "This one will do the job",
+      "price": 35,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": true,
+      "notifications": false,
+      "icon": "",
+      "reviews": [
+        {
+          "id": 0,
+          "name": "Mia",
+          "comment": "Lightweight and durable!",
+          "rating": 5,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 1,
+          "name": "Ethan",
+          "comment": "Nice shoes for running.",
+          "rating": 4,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 2,
+          "name": "Test User",
+          "comment": "test",
+          "rating": 2,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 3,
+          "name": "bjknj",
+          "comment": "nb  jk j",
+          "rating": 1,
+          "img": "userlogo.png"
+        }
+      ],
+      "store": "5",
+      "brand": "Reebok",
+      "views": 120
+    },
+    {
+      "id": "4",
+      "name": "NutriBullet",
+      "category": "appliances",
+      "subcategory": "blenders",
+      "image": "mixer.jpg",
+      "desc": "This one will do the job",
+      "price": 35,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": true,
+      "notifications": false,
+      "icon": "",
+      "reviews": [
+        {
+          "id": 0,
+          "name": "Ava",
+          "comment": "Makes great smoothies!",
+          "rating": 5,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 1,
+          "name": "James",
+          "comment": "Works perfectly.",
+          "rating": 4,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 2,
+          "name": "xsads",
+          "comment": "asdsad",
+          "rating": 1,
+          "img": "userlogo.png"
+        }
+      ],
+      "store": "5",
+      "brand": "NutriBullet",
+      "views": 144
+    },
+    {
+      "id": "5",
+      "name": "Samsung Fridge",
+      "category": "appliances",
+      "subcategory": "fridges",
+      "image": "usb.jpg",
+      "desc": "A class with a water dispenser!",
+      "price": 210,
+      "rating": "5",
+      "discount": "10",
+      "isFavorite": true,
+      "notifications": false,
+      "icon": "",
+      "reviews": [
+        {
+          "id": 0,
+          "name": "Benjamin",
+          "comment": "Keeps everything cold!",
+          "rating": 5,
+          "img": "userlogo.png"
+        },
+        {
+          "id": 1,
+          "name": "Charlotte",
+          "comment": "Love the water dispenser feature.",
+          "rating": 4,
+          "img": "userlogo.png"
+        }
+      ],
+      "store": "5",
+      "brand": "Samsung",
+      "views": 115
+    },
+    {
+      "id": "6",
+      "name": "LG Microwave",
+      "category": "appliances",
+      "subcategory": "microwaves",
+      "image": "mixer.jpg",
+      "desc": "Unfreeze in seconds!",
+      "price": 85,
+      "rating": "5",
+      "discount": "10",
+      "isFavorite": true,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "LG",
+      "views": 55
+    },
+    {
+      "id": "7",
+      "name": "VOX Cooler",
+      "category": "appliances",
+      "subcategory": "coolers",
+      "image": "vacumcleaner.jpg",
+      "desc": "Latest technology with the cheapest price!",
+      "price": 120,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "VOX",
+      "views": 70
+    },
+    {
+      "id": "8",
+      "name": "Hyundai Freezer",
+      "category": "appliances",
+      "subcategory": "freezers",
+      "image": "heater.jpg",
+      "desc": "For your goods to last forever",
+      "price": 210,
+      "rating": "5",
+      "discount": "12",
+      "isFavorite": false,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "Hyundai",
+      "views": 80
+    },
+    {
+      "id": "9",
+      "name": "Bosch Dishwasher",
+      "category": "appliances",
+      "subcategory": "dishwashers",
+      "image": "climate.jpg",
+      "desc": "A three minute wash - nothing more!",
+      "price": 225,
+      "rating": "5",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "Bosch",
+      "views": 60
+    },
+    {
+      "id": "10",
+      "name": "PROFLEX Stove",
+      "category": "appliances",
+      "subcategory": "stoves",
+      "image": "coffemachine.jpg",
+      "desc": "This one will do the job",
+      "price": 340,
+      "rating": "5",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "PROFLEX",
+      "views": 34
+    },
+    {
+      "id": "11",
+      "name": "Smeg Hood",
+      "category": "appliances",
+      "subcategory": "hoods",
+      "image": "laptop.jpg",
+      "desc": "This one will do the job",
+      "price": 335,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": true,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "Smeg",
+      "views": 44
+    },
+    {
+      "id": "12",
+      "name": "Samsung Clothes",
+      "category": "appliances",
+      "subcategory": "clothesDryers",
+      "image": "keyboard.jpg",
+      "desc": "This one will do the job",
+      "price": 450,
+      "rating": "4",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": true,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "Samsung",
+      "views": 15
+    },
+    {
+      "id": "13",
+      "name": "Whirpool Machine",
+      "category": "appliances",
+      "subcategory": "washingMachines",
+      "image": "usb.jpg",
+      "desc": "This one will do the job",
+      "price": 380,
+      "rating": "5",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "Whirpool",
+      "views": 78
+    },
+    {
+      "id": "14",
+      "name": "Midea Water Heater",
+      "category": "appliances",
+      "subcategory": "waterHeaters",
+      "image": "graphiccard.jpg",
+      "desc": "This one will do the job",
+      "price": 35,
+      "rating": "5",
+      "discount": "10",
+      "isFavorite": false,
+      "notifications": false,
+      "icon": "",
+      "reviews": [],
+      "store": "5",
+      "brand": "Midea",
+      "views": 18
+    },
+    {
+      "id": "15",
+      "name": "Nintendo Console",
+      "category": "consoles",
+      "brand": "Nintendo",
+      "price": 120,
+      "image": "playstation.jpg",
+      "discount": "20",
+      "isFavorite": false,
+      "notifications": false,
+      "reviews": [],
+      "store": "5"
+    },
+    {
+      "id": "16",
+      "name": "Suits",
+      "category": "clothes",
+      "brand": "Suits",
+      "price": 120,
+      "image": "laptop2.jpg",
+      "discount": "20",
+      "isFavorite": false,
+      "notifications": false,
+      "reviews": [],
+      "store": "5"
+    },
+    {
+      "id": "17",
+      "name": "Toys",
+      "category": "kids",
+      "brand": "Toys",
+      "price": 120,
+      "image": "controller.jpg",
+      "discount": "20",
+      "isFavorite": false,
+      "notifications": false,
+      "reviews": [],
+      "store": "5"
+    },
+    {
+      "id": "18",
+      "name": "Nikon Camera",
+      "category": "photography",
+      "brand": "Nikon",
+      "price": 120,
+      "image": "camera.jpg",
+      "discount": "20",
+      "isFavorite": false,
+      "notifications": false,
+      "reviews": [],
+      "store": "5"
+    },
+    {
+      "id": "19",
+      "name": "Sport Equipment",
+      "category": "sport",
+      "price": 120,
+      "image": "laptopcamera.jpg",
+      "discount": "20",
+      "isFavorite": true,
+      "notifications": false,
+      "reviews": [],
+      "store": "5"
+    }
+  ],
+  "searchKeywords": [
+    {
+      "Keywords": [
+        "Ipad 9th Generation",
+        "Sgin Laptop",
+        "Lenovo Legion 3070",
+        "Imac 24",
+        "Pn53",
+        "Acer Aspire Xc",
+        "Mac Mini M2 16gb",
+        "Acer Aspire Tc",
+        "AMD Ryzen 5 Desktop",
+        "GeForce GTX 1660",
+        "HP 32gb Desktop",
+        "HP All in One",
+        "Intel Core i7",
+        "RX580",
+        "i5",
+        "Ryzen 7",
+        "Intel Core i5",
+        "Acer Nitro 5",
+        "Ryzen 3",
+        "Raspberry Pi Zero 2",
+        "Micro HDMI Single Board",
+        "Banana Pi Single",
+        "Patriot SSD",
+        "Alienware Laptop",
+        "Kingston RAM",
+        "GeForce RTX 4070",
+        "OLED Screen"
+      ],
+      "id": "fbe2"
+    }
+  ],
+  "googleAds": [
+    {
+      "idAd": "1",
+      "adurl": "ad1.jpg",
+      "id": "8f62"
+    },
+    {
+      "idAd": "2",
+      "adurl": "ad2.jpg",
+      "id": "a48e"
+    },
+    {
+      "idAd": "3",
+      "adurl": "ad3.jpg",
+      "id": "3b43"
+    },
+    {
+      "idAd": "4",
+      "adurl": "ad4.jpg",
+      "id": "6564"
+    },
+    {
+      "idAd": "5",
+      "adurl": "ad5.jpg",
+      "id": "2647"
+    }
+  ]
+}

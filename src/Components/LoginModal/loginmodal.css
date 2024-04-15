@@ -1,0 +1,54 @@
+.login-modal-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.login-gradient-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(74, 74, 74, 0.41);
+  z-index: -1;
+}
+.facebook-input {
+  color: white;
+  background-color: #3d5a98;
+}
+.login-btn {
+  background-color: #2a2a2a;
+}
+.login-btn:hover {
+  color: black !important;
+}
+.custom-radius {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.video-container {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+  z-index: -1;
+  position: relative;
+  overflow: hidden; /* Ensure video is cropped */
+  height: 100%; /* Full height of parent container */
+}
+
+.video-container video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

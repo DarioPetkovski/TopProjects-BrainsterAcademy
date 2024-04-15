@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  src: url("./assets/fonts/Tahoma\ Regular\ font.ttf");
+}
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+:root {
+  --darkgreen: #556b2f;
+  --lightgreen: #669850;
+  --yellow: #ffa500;
+  --pink: #e9967a;
+}
+
+.search-icon {
+  color: var(--yellow);
+}

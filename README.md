@@ -10,8 +10,6 @@ https://github.com/DarioPetkovski/TopProjects-BrainsterAcademy/tree/DataHub
 ## Installation
 
 npm install<br/>
-npm install react-router-dom<br/>
-npm install axios
 
 ## Run Local Servers
 

@@ -1,0 +1,161 @@
+{
+  "services": [
+    {
+      "id": "479912135-db21-43d2-8397-fd374c452153",
+      "title": "Master Chefs",
+      "description": "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam",
+      "icon": "fa fa-3x fa-user-tie"
+    },
+    {
+      "id": "579912135-db21-43d2-8397-fd374c452153",
+      "title": "Quality Food",
+      "description": "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam",
+      "icon": "fa fa-3x fa-utensils"
+    },
+    {
+      "id": "279912135-db21-43d2-8397-fd374c452153",
+      "title": "Online Order",
+      "description": "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam",
+      "icon": "fa fa-3x fa-cart-plus"
+    },
+    {
+      "id": "179912135-db21-43d2-8397-fd374c452153",
+      "title": "24/7 Service",
+      "description": "Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita amet diam",
+      "icon": "fa fa-3x fa-headset"
+    }
+  ],
+  "team": [
+    {
+      "id": "200-db21-43d2-8397-fd374c452153",
+      "first_name": "Ximenez",
+      "last_name": "Sangwin",
+      "avatar": "/images/team-1.jpg",
+      "position": "Master Chef"
+    },
+    {
+      "id": "201-17e2-44ef-b19f-9ea9676a11cc",
+      "first_name": "Tallulah",
+      "last_name": "Mullen",
+      "avatar": "/images/team-2.jpg",
+      "position": "All arounder"
+    },
+    {
+      "id": "202-d8aa-47a7-9a17-ff9b05fc7ae3",
+      "first_name": "Niko",
+      "last_name": "Vasyaev",
+      "avatar": "/images/team-3.jpg",
+      "position": "Prep cook"
+    },
+    {
+      "id": "203-3caa-433a-a385-c9bfa9b13641",
+      "first_name": "Howie",
+      "last_name": "Rupel",
+      "avatar": "/images/team-4.jpg",
+      "position": "Seafod chef"
+    }
+  ],
+  "menu": [
+    {
+      "id": "94298",
+      "name": "3 Chicken Wings",
+      "price": "250.00",
+      "image": "/images/menu-1.jpg",
+      "description": "Tender, Spicy and Juicy. Original or Peri-Crusted"
+    },
+    {
+      "id": "94301",
+      "name": "Chicken Livers and Portuguese Roll",
+      "price": "250.00",
+      "image": "/images/menu-2.jpg",
+      "description": "Chicken Livers Topped with PERi-PERi Sauce, Served with A Roll To Soak Up The Sauce"
+    },
+    {
+      "id": "94304",
+      "name": "Spicy Mixed Olives (V)",
+      "price": "215.00",
+      "image": "/images/menu-3.jpg",
+      "description": "Co-Starring Garlic, Pepper and Chili"
+    },
+    {
+      "id": "94307",
+      "name": "Hummus with PERI-PERI Drizzle (V)",
+      "price": "215.00",
+      "image": "/images/menu-4.jpg",
+      "description": "Pour Smoky PERi-PERi Oil Over Creamy Hummus and Dig in with Strips Of Warm Pita"
+    },
+    {
+      "id": "94310",
+      "name": "Red Pepper Dip (V)",
+      "price": "205.00",
+      "image": "/images/menu-5.jpg",
+      "description": "Dive Into Temping Roasted Red Pepper and Chili Spice Dip with Warm Pita Strips"
+    },
+    {
+      "id": "94313",
+      "name": "Appeteaser Platter",
+      "price": "615.00",
+      "image": "/images/menu-6.jpg",
+      "description": "Choose any Three Appeteasers"
+    },
+    {
+      "id": "94349",
+      "name": "1/4 Chicken",
+      "description": "Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+      "price": "385.00",
+      "image": "/images/menu-7.jpg"
+    },
+    {
+      "id": "94352",
+      "name": "1/2 Chicken",
+      "price": "685.00",
+      "image": "/images/menu-8.jpg",
+      "description": "Half Chicken Marinated with PERi-PERi Sauce and Grilled"
+    },
+    {
+      "id": "94355",
+      "name": "5 Chicken Wings",
+      "price": "475.00",
+      "image": "/images/menu-1.jpg",
+      "description": "Original Flavours or PERi-PEREi Crusted (P)"
+    },
+    {
+      "id": "94358",
+      "name": "Wing Roulette",
+      "price": "750.00",
+      "image": "/images/menu-2.jpg",
+      "description": "10 Wings in PERi-PERi Flavors"
+    }
+  ],
+  "banner_content": {
+    "title": "Enjoy Our Delicious Meal",
+    "content": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+    "button_title": "book a table"
+  },
+  "about_block": {
+    "preTitle": "About Us",
+    "title": "Welcome to Restoran",
+    "first_paragraph": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+    "second_paragraph": "Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.",
+    "years": "15",
+    "slogan": "Years Working Experience",
+    "number_of_chefs": "50",
+    "slogan_two": "Popular Master chefs",
+    "image_one": "/images/about-1.jpg",
+    "image_two": "/images/about-2.jpg",
+    "image_three": "/images/about-3.jpg",
+    "image_four": "/images/about-4.jpg"
+  },
+  "services_block": {
+    "preTitle": "Our Services",
+    "title": "Explore Our Services"
+  },
+  "team_block": {
+    "preTitle": "Team Members",
+    "title": "Our Master Chefs"
+  },
+  "menu_block": {
+    "preTitle": "Food Menu",
+    "title": "Our Menu Items"
+  }
+}

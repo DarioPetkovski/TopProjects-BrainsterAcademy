@@ -1,6 +1,6 @@
 # Restaurant Menu
 
-This app is one of the mentorships on the brainster's front-end academy it's meant to seach about the menu and to see the working staff, it's most SSR App and it's used: NextJS, Bootstrap, Css, TypeScript.
+This app is one of the mentorships on the brainster's front-end academy it's meant to seach about the menu and to see the working staff, it's SSR App and it's used: NextJS, Bootstrap, Css, TypeScript.
 
 ## Installations
 

@@ -41,7 +41,7 @@ For this App is used: NextJS, Css, TypeScript, Bootstrap, Html, fireBase, tailwi
 
 ### Clone this Repo
 
-git clone https://git.brainster.co/Dario.Petkovski-FE15/projects_dariopetkovskife15/-/tree/Project03
+git clone https://github.com/DarioPetkovski/TopProjects-BrainsterAcademy/tree/KineMoe
 
 ### Install
 

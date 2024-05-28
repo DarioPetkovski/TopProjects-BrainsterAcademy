@@ -1,0 +1,3022 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "type": "Movies",
+      "title": "Infinite Conquest",
+      "description": "A gripping action-packed adventure set in ancient times, following the journey of a fearless warrior battling against overwhelming odds to save his kingdom.",
+      "match": "100%",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "writers": [
+        "Jon Spaihts",
+        "Eric Roth"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Joe Walker",
+      "producers": [
+        "Per Henry Borch",
+        "Cale Boyter",
+        "Chris Carreras"
+      ],
+      "costumeDesign": [
+        "Bob Morgan",
+        "Richard Roberts"
+      ],
+      "director": "Denis Villeneuve",
+      "cinematography": "Greig Fraser",
+      "age": "14",
+      "img": "https://image.tmdb.org/t/p/w1280/jVcmzbM0tiIUQFxcvxeUjQ3uJIx.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": true,
+      "ourRecomandation": true,
+      "imdb": 4.6,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "beautifull scene",
+          "time": 20
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "rtfasvhujgf",
+          "text": "i like this scene",
+          "time": 11
+        },
+        {
+          "id": "sdefghasdbf",
+          "userID": "wrxbylnbgo",
+          "text": "This movie is amazing!",
+          "time": 25
+        },
+        {
+          "id": "sdefghasddf",
+          "userID": "utkgevphxu",
+          "text": "The action sequences are top-notch.",
+          "time": 35
+        },
+        {
+          "id": "sdefghasdsf",
+          "userID": "bgdxedouhi",
+          "text": "Jason Statham's performance is outstanding.",
+          "time": 42
+        },
+        {
+          "id": "sdefghasdds",
+          "userID": "vpkxblnujj",
+          "text": "I was on the edge of my seat throughout the movie!",
+          "time": 50
+        },
+        {
+          "id": "rboghuijui",
+          "userID": "vpkxblnujj",
+          "text": "wow! nice ride on this scene",
+          "time": 30.763506
+        },
+        {
+          "id": "vthqqxtgaq",
+          "userID": "iwnoutlvzf",
+          "text": "I love this scene",
+          "time": 3.136463
+        },
+        {
+          "id": "ujqbrjsgus",
+          "userID": "owvrgpflrx",
+          "text": "I love this scene!",
+          "time": 60
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "type": "Kids",
+      "title": "The Lion King",
+      "description": "Experience the circle of life in this timeless classic that follows the journey of a young lion prince as he struggles to embrace his destiny and reclaim his rightful place as king.",
+      "match": "95%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "writers": [
+        "Irene Mecchi",
+        "Jonathan Roberts",
+        "Linda Woolverton"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Ivan Bilancio",
+      "producers": [
+        "Don Hahn"
+      ],
+      "costumeDesign": [],
+      "director": "Roger Allers",
+      "cinematography": "Randy Fullmer",
+      "age": "G",
+      "img": "https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/c4/2a/ad/c42aadfb-764e-db99-300b-c0888604a06b/pr_source.lsr/900x900bb.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.2,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Amazing animation!",
+          "time": 15
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "rtfasvhujgf",
+          "text": "The soundtrack is so nostalgic.",
+          "time": 28
+        },
+        {
+          "id": "sdefghasdbf",
+          "userID": "wrxbylnbgo",
+          "text": "I cried at the ending, just like the first time!",
+          "time": 40
+        },
+        {
+          "id": "sdefghasddf",
+          "userID": "utkgevphxu",
+          "text": "A timeless classic indeed.",
+          "time": 50
+        },
+        {
+          "id": "sdefghasdsf",
+          "userID": "bgdxedouhi",
+          "text": "This movie brings back so many childhood memories.",
+          "time": 60
+        },
+        {
+          "id": "sdefghasdds",
+          "userID": "vpkxblnujj",
+          "text": "The characters are so lovable!",
+          "time": 70
+        },
+        {
+          "id": "vsjiraoadf",
+          "userID": "iwnoutlvzf",
+          "text": "I love this cartoon",
+          "time": 20.905063
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "type": "TV Series",
+      "title": "Breaking Bad",
+      "description": "Follow the transformation of Walter White from a high school chemistry teacher to a ruthless drug kingpin in this critically acclaimed crime drama series.",
+      "match": "98%",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "writers": [
+        "Vince Gilligan"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Kelley Dixon",
+      "producers": [
+        "Vince Gilligan",
+        "Mark Johnson",
+        "Michelle MacLaren",
+        "Melissa Bernstein"
+      ],
+      "costumeDesign": [],
+      "director": "Vince Gilligan",
+      "cinematography": "Michael Slovis",
+      "age": "R",
+      "img": "https://images7.alphacoders.com/111/1111278.jpg",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.6,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Bryan Cranston's acting is phenomenal!",
+          "time": 18
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "rtfasvhujgf",
+          "text": "One of the best TV series ever made.",
+          "time": 30
+        },
+        {
+          "id": "sdefghasdbf",
+          "userID": "wrxbylnbgo",
+          "text": "I couldn't stop watching!",
+          "time": 45
+        },
+        {
+          "id": "sdefghasddf",
+          "userID": "utkgevphxu",
+          "text": "The character development is superb.",
+          "time": 55
+        },
+        {
+          "id": "sdefghasdsf",
+          "userID": "bgdxedouhi",
+          "text": "The plot twists kept me hooked till the end.",
+          "time": 65
+        },
+        {
+          "id": "sdefghasdds",
+          "userID": "vpkxblnujj",
+          "text": "Aaron Paul's performance is outstanding.",
+          "time": 75
+        },
+        {
+          "id": "tcpxhuruul",
+          "userID": "rjufkmncit",
+          "text": "hey!",
+          "time": 2.219637
+        },
+        {
+          "id": "pdgmcrgqgr",
+          "userID": "utkgevphxu",
+          "text": "very interesting scene",
+          "time": 13.5292
+        },
+        {
+          "id": "tpgswyyjld",
+          "userID": "utkgevphxu",
+          "text": "I love this actor",
+          "time": 20.576371
+        },
+        {
+          "id": "gujvzkvohb",
+          "userID": "rjufkmncit",
+          "text": "I have to watch this movie again",
+          "time": 40.714713
+        },
+        {
+          "id": "zeibyicwdy",
+          "userID": "utkgevphxu",
+          "text": "hmm I don't get this scene",
+          "time": 50.423856
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "type": "Documentaries",
+      "title": "Planet Earth II",
+      "description": "Experience the wonders of our planet like never before in this stunning documentary series that explores the diverse habitats and wildlife of Earth.",
+      "match": "99%",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "writers": [
+        "David Attenborough"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Тони Михајловски"
+      ],
+      "editing": "Matt Meech",
+      "producers": [
+        "Mike Gunton",
+        "Tom Hugh-Jones"
+      ],
+      "costumeDesign": [],
+      "director": "David Attenborough",
+      "cinematography": "Various",
+      "age": "G",
+      "img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8607bb56d81e23c05fe0e9c2e9e278ffd53b9377343dc4f70e06d495307cb1f1._V_SX2160_.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 5.3,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Breathtaking cinematography!",
+          "time": 22
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "rtfasvhujgf",
+          "text": "This documentary series is a masterpiece.",
+          "time": 35
+        },
+        {
+          "id": "sdefghasdbf",
+          "userID": "wrxbylnbgo",
+          "text": "I learned so much about nature from this!",
+          "time": 48
+        },
+        {
+          "id": "sdefghasddf",
+          "userID": "utkgevphxu",
+          "text": "David Attenborough's narration is captivating.",
+          "time": 60
+        },
+        {
+          "id": "sdefghasdsf",
+          "userID": "bgdxedouhi",
+          "text": "Absolutely stunning visuals!",
+          "time": 72
+        },
+        {
+          "id": "sdefghasdds",
+          "userID": "vpkxblnujj",
+          "text": "I felt like I was traveling the world while watching this.",
+          "time": 85
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "Movies",
+      "title": "The Dark Knight",
+      "description": "Witness the battle of Gotham City as Batman faces his greatest nemesis, the Joker, in this epic superhero film that explores themes of chaos, morality, and justice.",
+      "match": "97%",
+      "genres": [
+        "Action",
+        "Horror",
+        "Drama"
+      ],
+      "writers": [
+        "Christopher Nolan",
+        "Jonathan Nolan"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Тони Михајловски"
+      ],
+      "editing": "Lee Smith",
+      "producers": [
+        "Christopher Nolan",
+        "Charles Roven",
+        "Emma Thomas"
+      ],
+      "costumeDesign": [
+        "Lindy Hemming"
+      ],
+      "director": "Christopher Nolan",
+      "cinematography": "Wally Pfister",
+      "age": "PG-13",
+      "img": "https://www.themoviedb.org/t/p/original/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 5,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Heath Ledger's performance as the Joker is legendary!",
+          "time": 18
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "wrxbylnbgo",
+          "text": "One of the best superhero movies ever made.",
+          "time": 30
+        },
+        {
+          "id": "sdefghasdbf",
+          "userID": "wrxbylnbgo",
+          "text": "The tension in this movie is palpable.",
+          "time": 42
+        },
+        {
+          "id": "sdefghasddf",
+          "userID": "utkgevphxu",
+          "text": "Christopher Nolan's direction is masterful.",
+          "time": 55
+        },
+        {
+          "id": "akfuoabvgc",
+          "userID": "utkgevphxu",
+          "text": "I like this scene!",
+          "time": 116.350436
+        },
+        {
+          "id": "chomhzpsbx",
+          "userID": "mukknpcdis",
+          "text": "This scene is beautiful!",
+          "time": 60.680104
+        },
+        {
+          "id": "gmjmnzcysy",
+          "userID": "mukknpcdis",
+          "text": "this scene is beautiful",
+          "time": 51.191927
+        },
+        {
+          "id": "jpmabxuwmn",
+          "userID": "mukknpcdis",
+          "text": "I love this scene",
+          "time": 20.317411
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "type": "Movies",
+      "title": "Interstellar",
+      "description": "Embark on a journey through space and time in this epic sci-fi adventure, as a team of astronauts seeks to find a new habitable planet for humanity.",
+      "match": "97%",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Lee Smith",
+      "producers": [
+        "Emma Thomas",
+        "Christopher Nolan",
+        "Lynda Obst"
+      ],
+      "costumeDesign": [
+        "Mary Zophres"
+      ],
+      "director": "Christopher Nolan",
+      "cinematography": "Hoyte van Hoytema",
+      "age": "PG-13",
+      "img": "https://qph.fs.quoracdn.net/main-qimg-1a2c52186d11b140cb971828c3eb6d89-lq",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.6,
+      "comments": [
+        {
+          "id": "ronqulfksn",
+          "userID": "bgdxedouhi",
+          "text": "wow! this scene is stunning",
+          "time": 20.355025
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "type": "Kids",
+      "title": "Finding Nemo",
+      "description": "Dive into an underwater adventure with Marlin and Dory as they embark on a journey across the ocean to find Marlin's son, Nemo.",
+      "match": "96%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "writers": [
+        "Andrew Stanton",
+        "Bob Peterson",
+        "David Reynolds"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "David Ian Salter",
+      "producers": [
+        "Graham Walters"
+      ],
+      "costumeDesign": [],
+      "director": "Andrew Stanton",
+      "cinematography": "Sharon Calahan",
+      "age": "G",
+      "img": "https://www.themoviedb.org/t/p/original/adMZmqi7LlZB3I8BIE6MpPdzOlG.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.4,
+      "comments": []
+    },
+    {
+      "id": "8",
+      "type": "TV Series",
+      "title": "Stranger Things",
+      "description": "Enter the supernatural world of Hawkins, Indiana, as a group of kids encounters mysterious forces and government conspiracies in the 1980s.",
+      "match": "98%",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "writers": [
+        "The Duffer Brothers"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Kevin D. Ross",
+      "producers": [
+        "Shawn Levy",
+        "Dan Cohen",
+        "Iain Paterson"
+      ],
+      "costumeDesign": [],
+      "director": "The Duffer Brothers",
+      "cinematography": "Tim Ives",
+      "age": "TV-14",
+      "img": "https://th.bing.com/th/id/R.3bba2edacac4811e72c4e2af133e89a3?rik=%2bx9WscNSzyq52A&pid=ImgRaw&r=0",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4,
+      "comments": []
+    },
+    {
+      "id": "9",
+      "type": "Documentaries",
+      "title": "The Blue Planet",
+      "description": "Explore the vast and diverse marine habitats of Earth in this breathtaking documentary series that delves into the mysteries of the ocean.",
+      "match": "99%",
+      "genres": [
+        "Sci-Fi"
+      ],
+      "writers": [
+        "David Attenborough"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Раде Шербеџија"
+      ],
+      "editing": "Martin Elsbury",
+      "producers": [
+        "Alastair Fothergill"
+      ],
+      "costumeDesign": [],
+      "director": "Alastair Fothergill",
+      "cinematography": "Doug Allan",
+      "age": "G",
+      "img": "https://guerrillaradio.b-cdn.net/wp-content/uploads/2018/07/Blue-Planet-cover.jpg",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.9,
+      "comments": []
+    },
+    {
+      "id": "10",
+      "type": "Podcast",
+      "title": "Serial",
+      "description": "Delve into true crime stories with Serial, a gripping podcast series that investigates one case per season, exploring the intricacies of the criminal justice system.",
+      "match": "98%",
+      "genres": [
+        "True Crime",
+        "Podcast"
+      ],
+      "writers": [
+        "Sarah Koenig"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Julie Snyder"
+      ],
+      "costumeDesign": [],
+      "director": "Sarah Koenig",
+      "cinematography": "N/A",
+      "age": "18+",
+      "img": "https://serialpodcast.org/sites/all/themes/podcast/img/serial-trailer-s03.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 5.7,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "beautifull scene",
+          "time": 20
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "rjufkmncit",
+          "text": "i like this scene",
+          "time": 11
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "type": "Movies",
+      "title": "The Shawshank Redemption",
+      "description": "Follow the story of Andy Dufresne, a banker wrongly convicted of murder, as he forms friendships and finds hope in the unlikeliest of places.",
+      "match": "93%",
+      "genres": [
+        "Horror"
+      ],
+      "writers": [
+        "Stephen King",
+        "Frank Darabont"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Richard Francis-Bruce",
+      "producers": [
+        "Niki Marvin"
+      ],
+      "costumeDesign": [
+        "Elizabeth McBride"
+      ],
+      "director": "Frank Darabont",
+      "cinematography": "Roger Deakins",
+      "age": "R",
+      "img": "https://th.bing.com/th/id/OIP.yobjBRMMdekQvZwGHeebKgHaLH?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.4,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "wrxbylnbgo",
+          "text": "Fantastic movie!",
+          "time": 30
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "utkgevphxu",
+          "text": "One of my all-time favorites!",
+          "time": 45
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "type": "Kids",
+      "title": "Frozen II",
+      "description": "Return to the magical kingdom of Arendelle as Elsa, Anna, Kristoff, Olaf, and Sven embark on a dangerous journey to discover the truth about Elsa's powers.",
+      "match": "95%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "writers": [
+        "Jennifer Lee"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Jeff Draheim",
+      "producers": [
+        "Peter Del Vecho"
+      ],
+      "costumeDesign": [],
+      "director": "Chris Buck",
+      "cinematography": "Tracy Scott Beattie",
+      "age": "PG",
+      "img": "https://image.tmdb.org/t/p/original/h6Wi81XNXCjTAcdstiCLRykN3Pa.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.8,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "bgdxedouhi",
+          "text": "My kids love this movie!",
+          "time": 25
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "vpkxblnujj",
+          "text": "Great animation!",
+          "time": 10
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "type": "TV Series",
+      "title": "Friends",
+      "description": "Follow the lives and adventures of six friends living in New York City as they navigate the ups and downs of relationships, careers, and adulthood.",
+      "match": "97%",
+      "genres": [
+        "Comedy",
+        "History"
+      ],
+      "writers": [
+        "David Crane",
+        "Marta Kauffman"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Kevin S. Bright",
+        "Marta Kauffman",
+        "David Crane"
+      ],
+      "costumeDesign": [],
+      "director": "Various",
+      "cinematography": "Various",
+      "age": "PG-13",
+      "img": "https://m.media-amazon.com/images/I/71VpnLjyV7L._AC_SL1500_.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.6,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Classic sitcom!",
+          "time": 15
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "vpkxblnujj",
+          "text": "Never gets old!",
+          "time": 5
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "type": "Documentaries",
+      "title": "Making a Murderer",
+      "description": "Explore the controversial case of Steven Avery, a man wrongfully convicted of sexual assault and later accused of murder, in this gripping true crime documentary series.",
+      "match": "98%",
+      "genres": [
+        "True Crime",
+        "Sci-Fi"
+      ],
+      "writers": [
+        "Laura Ricciardi",
+        "Moira Demos"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Laura Ricciardi",
+        "Moira Demos"
+      ],
+      "costumeDesign": [],
+      "director": "Laura Ricciardi",
+      "cinematography": "Igor Martinovic",
+      "age": "18+",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDA5OTEyMTE1OF5BMl5BanBnXkFtZTgwMTY3OTQ1NjM@._V1_SX888_CR0,0,888,499_AL_.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 6.2,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "wrxbylnbgo",
+          "text": "Compelling documentary!",
+          "time": 35
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "utkgevphxu",
+          "text": "Mind-boggling case!",
+          "time": 20
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "type": "Podcast",
+      "title": "TED Radio Hour",
+      "description": "Dive into a world of ideas with TED Radio Hour, a podcast that explores a wide range of topics through fascinating talks and interviews with leading experts.",
+      "match": "97%",
+      "genres": [
+        "Education",
+        "Podcast"
+      ],
+      "writers": [
+        "Various"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "NPR"
+      ],
+      "costumeDesign": [],
+      "director": "NPR",
+      "cinematography": "N/A",
+      "age": "All Ages",
+      "img": "https://th.bing.com/th/id/OIP.XPHzMio9hS83XlfThonFxQHaHa?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.1,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "bgdxedouhi",
+          "text": "Informative and engaging!",
+          "time": 18
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "vpkxblnujj",
+          "text": "Love the variety of topics!",
+          "time": 7
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "type": "Movies",
+      "title": "The Dark Knight",
+      "description": "Witness the battle between the legendary Batman and the iconic Joker in this thrilling superhero film that explores the themes of chaos and morality.",
+      "match": "96%",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Тони Михајловски"
+      ],
+      "editing": "Lee Smith",
+      "producers": [
+        "Christopher Nolan",
+        "Emma Thomas",
+        "Charles Roven"
+      ],
+      "costumeDesign": [
+        "Lindy Hemming"
+      ],
+      "director": "Christopher Nolan",
+      "cinematography": "Wally Pfister",
+      "age": "PG-13",
+      "img": "https://www.themoviedb.org/t/p/original/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.8,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Heath Ledger's Joker is legendary!",
+          "time": 25
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "vpkxblnujj",
+          "text": "One of the best superhero movies ever made!",
+          "time": 15
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "type": "Kids",
+      "title": "Toy Story 3",
+      "description": "Join Woody, Buzz Lightyear, and their friends as they face their biggest adventure yet when they end up in a daycare center after Andy leaves for college.",
+      "match": "94%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "writers": [
+        "Michael Arndt"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Ken Schretzmann",
+      "producers": [
+        "Darla K. Anderson"
+      ],
+      "costumeDesign": [],
+      "director": "Lee Unkrich",
+      "cinematography": "Jeremy Lasky",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP.Jzu68Oz2wPa5w2QFpygiYwAAAA?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.2,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "wrxbylnbgo",
+          "text": "One of the best animated movies!",
+          "time": 20
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "utkgevphxu",
+          "text": "Such a heartwarming story!",
+          "time": 10
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "type": "TV Series",
+      "title": "The Office",
+      "description": "Step into the quirky world of Dunder Mifflin, a paper company where everyday office life is anything but ordinary, in this hilarious mockumentary series.",
+      "match": "95%",
+      "genres": [
+        "Comedy,History"
+      ],
+      "writers": [
+        "Greg Daniels"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "David Rogers",
+      "producers": [
+        "Greg Daniels",
+        "Michael Schur",
+        "Ben Silverman"
+      ],
+      "costumeDesign": [],
+      "director": "Various",
+      "cinematography": "Randall Einhorn",
+      "age": "TV-14",
+      "img": "https://th.bing.com/th/id/OIP.Msr9MCRinrU7y6XZKwxNlgHaFj?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.6,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "bgdxedouhi",
+          "text": "Hilarious show!",
+          "time": 15
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "vpkxblnujj",
+          "text": "The characters are so relatable!",
+          "time": 8
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "type": "Documentaries",
+      "title": "Cosmos: A Spacetime Odyssey",
+      "description": "Embark on a cosmic journey through space and time with astrophysicist Neil deGrasse Tyson as he explores the wonders of the universe and the mysteries of science.",
+      "match": "97%",
+      "genres": [
+        "Thriller"
+      ],
+      "writers": [
+        "Ann Druyan",
+        "Steven Soter"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "John Duffy",
+      "producers": [
+        "Ann Druyan",
+        "Brannon Braga",
+        "Mitchell Cannold"
+      ],
+      "costumeDesign": [],
+      "director": "Brannon Braga",
+      "cinematography": "Bill Pope",
+      "age": "PG",
+      "img": "https://th.bing.com/th/id/OIP.vK-dlydVjYKKbBzhdInWJQHaEo?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.8,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "bgdxedouhi",
+          "text": "Mind-blowing documentary!",
+          "time": 30
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "bgdxedouhi",
+          "text": "A must-watch for science enthusiasts!",
+          "time": 12
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "type": "Podcast",
+      "title": "Stuff You Should Know",
+      "description": "Expand your knowledge on a wide range of topics with Stuff You Should Know, a podcast that dives deep into fascinating subjects with wit, humor, and insight.",
+      "match": "96%",
+      "genres": [
+        "Education",
+        "Podcast"
+      ],
+      "writers": [
+        "Josh Clark",
+        "Chuck Bryant"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "iHeartRadio"
+      ],
+      "costumeDesign": [],
+      "director": "iHeartRadio",
+      "cinematography": "N/A",
+      "age": "All Ages",
+      "img": "https://ia.media-imdb.com/images/M/MV5BMTc0Mjg1Nzc0MF5BMl5BanBnXkFtZTcwODM5OTcwOQ@@._V1_UY1200_CR133,0,630,1200_AL_.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.6,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Love the hosts' chemistry!",
+          "time": 22
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "wrxbylnbgo",
+          "text": "Always learn something new!",
+          "time": 10
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "type": "Movies",
+      "title": "The Godfather",
+      "description": "Enter the world of the Corleone crime family in this iconic mafia film that follows the rise of Michael Corleone as he takes over the family business.",
+      "match": "97%",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "writers": [
+        "Mario Puzo",
+        "Francis Ford Coppola"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Раде Шербеџија"
+      ],
+      "editing": "William Reynolds",
+      "producers": [
+        "Albert S. Ruddy"
+      ],
+      "costumeDesign": [
+        "Anna Hill Johnstone"
+      ],
+      "director": "Francis Ford Coppola",
+      "cinematography": "Gordon Willis",
+      "age": "R",
+      "img": "https://th.bing.com/th/id/OIP.EZncYnNoDxdf2bBsnDbQigAAAA?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.4,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "utkgevphxu",
+          "text": "A masterpiece of cinema!",
+          "time": 28
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "wrxbylnbgo",
+          "text": "Classic movie with unforgettable performances!",
+          "time": 16
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "type": "Kids",
+      "title": "Moana",
+      "description": "Join Moana, a brave Polynesian girl, on her daring journey across the Pacific Ocean to save her island and discover her true destiny.",
+      "match": "94%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "writers": [
+        "Jared Bush",
+        "Ron Clements",
+        "John Musker"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Jeff Draheim",
+      "producers": [
+        "Osnat Shurer"
+      ],
+      "costumeDesign": [],
+      "director": "Ron Clements",
+      "cinematography": "Rob Dressel",
+      "age": "PG",
+      "img": "https://4.bp.blogspot.com/-cVIuO9IQMZ4/WK7cg6sNPCI/AAAAAAAAAd0/If0z-xZOFZgcFUBiZO_iEWSPHRFmkhfQwCLcB/s1600/artworks-000197406861-wqczc5-t500x500.jpg",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.2,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "utkgevphxu",
+          "text": "My kids love this movie!",
+          "time": 18
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "bgdxedouhi",
+          "text": "Beautiful animation and music!",
+          "time": 12
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "type": "TV Series",
+      "title": "Breaking Bad",
+      "description": "Follow the transformation of Walter White from a high school chemistry teacher to a ruthless drug kingpin in this critically acclaimed crime drama series.",
+      "match": "98%",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "History"
+      ],
+      "writers": [
+        "Vince Gilligan"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Kelley Dixon",
+      "producers": [
+        "Vince Gilligan",
+        "Mark Johnson",
+        "Michelle MacLaren",
+        "Melissa Bernstein"
+      ],
+      "costumeDesign": [],
+      "director": "Vince Gilligan",
+      "cinematography": "Michael Slovis",
+      "age": "R",
+      "img": "https://th.bing.com/th/id/R.fb2d073e37f655f3e0ad8d42d96409f7?rik=bpQoZqJan0sVMQ&pid=ImgRaw&r=0",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.9,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "bgdxedouhi",
+          "text": "One of the best TV series ever made!",
+          "time": 23
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "utkgevphxu",
+          "text": "The character development is phenomenal!",
+          "time": 17
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "type": "Documentaries",
+      "title": "Planet Earth II",
+      "description": "Experience the wonders of our planet like never before in this stunning documentary series that explores the diverse habitats and wildlife of Earth.",
+      "match": "99%",
+      "genres": [
+        "Thriller",
+        "History"
+      ],
+      "writers": [
+        "David Attenborough"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Раде Шербеџија"
+      ],
+      "editing": "Matt Meech",
+      "producers": [
+        "Mike Gunton",
+        "Tom Hugh-Jones"
+      ],
+      "costumeDesign": [],
+      "director": "David Attenborough",
+      "cinematography": "Various",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP._FUK-iuGrrKB-Ytlr3VeWwHaKX?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.2,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "utkgevphxu",
+          "text": "Breathtaking cinematography!",
+          "time": 20
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "wrxbylnbgo",
+          "text": "Absolutely mesmerizing!",
+          "time": 12
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "type": "Podcast",
+      "title": "The Joe Rogan Experience",
+      "description": "Join Joe Rogan as he explores a wide range of topics with guests from various backgrounds, offering insightful conversations and diverse perspectives.",
+      "match": "95%",
+      "genres": [
+        "Podcast"
+      ],
+      "writers": [
+        "Joe Rogan"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Joe Rogan"
+      ],
+      "costumeDesign": [],
+      "director": "Joe Rogan",
+      "cinematography": "N/A",
+      "age": "18+",
+      "img": "https://th.bing.com/th/id/OIP.sUWUeoj8p_TLKsNd_DO9TQHaHa?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.4,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Always interesting conversations!",
+          "time": 25
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "wrxbylnbgo",
+          "text": "Love the variety of guests!",
+          "time": 15
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "type": "Movies",
+      "title": "Inception",
+      "description": "Enter the world of dreams within dreams in this mind-bending sci-fi thriller, as a skilled thief navigates the layers of the subconscious to complete an impossible heist.",
+      "match": "97%",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "writers": [
+        "Christopher Nolan"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Lee Smith",
+      "producers": [
+        "Emma Thomas",
+        "Christopher Nolan"
+      ],
+      "costumeDesign": [
+        "Jeffrey Kurland"
+      ],
+      "director": "Christopher Nolan",
+      "cinematography": "Wally Pfister",
+      "age": "PG-13",
+      "img": "https://th.bing.com/th/id/R.9a3056d9f1f927008b0432a5255fd09b?rik=w1jovqG8sS9GkA&pid=ImgRaw&r=0",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 5.7,
+      "comments": [
+        {
+          "id": "sdefghasdas",
+          "userID": "rjufkmncit",
+          "text": "Mind-bending movie!",
+          "time": 28
+        },
+        {
+          "id": "sdefgdasd",
+          "userID": "utkgevphxu",
+          "text": "Christopher Nolan's masterpiece!",
+          "time": 16
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "type": "Kids",
+      "title": "The Little Mermaid",
+      "description": "Follow the enchanting tale of Ariel, a mermaid princess who dreams of living on land and falls in love with a human prince, in this beloved Disney classic.",
+      "match": "93%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "writers": [
+        "Ron Clements",
+        "John Musker"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Mark A. Hester",
+      "producers": [
+        "John Musker",
+        "Howard Ashman"
+      ],
+      "costumeDesign": [],
+      "director": "Ron Clements",
+      "cinematography": "Ron Clements, John Musker",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP.JJCNZWTo9qYoZpikrCuFWwAAAA?w=474&h=715&rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.4,
+      "comments": []
+    },
+    {
+      "id": "28",
+      "type": "TV Series",
+      "title": "Game of Thrones",
+      "description": "Enter the epic fantasy world of Westeros, where noble families vie for control of the Iron Throne in this gripping and complex drama series.",
+      "match": "96%",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "writers": [
+        "David Benioff",
+        "D.B. Weiss"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Раде Шербеџија"
+      ],
+      "editing": "Various",
+      "producers": [
+        "David Benioff",
+        "D.B. Weiss",
+        "George R.R. Martin",
+        "Bernadette Caulfield"
+      ],
+      "costumeDesign": [],
+      "director": "Various",
+      "cinematography": "Various",
+      "age": "TV-MA",
+      "img": "https://th.bing.com/th/id/R.23c6dc7e07eae6250e8d29149046c867?rik=jiJNp9fnvJQYRw&pid=ImgRaw&r=0",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.1,
+      "comments": []
+    },
+    {
+      "id": "29",
+      "type": "Documentaries",
+      "title": "13th",
+      "description": "Explore the intersection of race, justice, and mass incarceration in the United States in this powerful documentary that examines the legacy of slavery and racism.",
+      "match": "98%",
+      "genres": [
+        "Thriller",
+        "History"
+      ],
+      "writers": [
+        "Ava DuVernay",
+        "Spencer Averick"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Spencer Averick",
+      "producers": [
+        "Ava DuVernay",
+        "Spencer Averick"
+      ],
+      "costumeDesign": [],
+      "director": "Ava DuVernay",
+      "cinematography": "Hans Charles",
+      "age": "16+",
+      "img": "https://th.bing.com/th/id/OIP.UIGs4mc8RDthRECDdeYwhwAAAA?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.7,
+      "comments": []
+    },
+    {
+      "id": "30",
+      "type": "Podcast",
+      "title": "Radiolab",
+      "description": "Embark on a journey of discovery with Radiolab, a podcast that explores science, philosophy, and the human experience through captivating stories and innovative sound design.",
+      "match": "96%",
+      "genres": [
+        "Science",
+        "Podcast"
+      ],
+      "writers": [
+        "Jad Abumrad",
+        "Robert Krulwich"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Soren Wheeler",
+      "producers": [
+        "WNYC Studios"
+      ],
+      "costumeDesign": [],
+      "director": "WNYC Studios",
+      "cinematography": "N/A",
+      "age": "All Ages",
+      "img": "https://podcasttonight.com/wp-content/uploads/2023/01/Radiolab.png",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.9,
+      "comments": []
+    },
+    {
+      "id": "31",
+      "type": "Movies",
+      "title": "The Matrix",
+      "description": "Enter the virtual world of the Matrix in this groundbreaking sci-fi action film, as Neo discovers the truth about reality and leads a rebellion against the machines.",
+      "match": "95%",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "writers": [
+        "The Wachowskis"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Zach Staenberg",
+      "producers": [
+        "Joel Silver"
+      ],
+      "costumeDesign": [
+        "Kym Barrett"
+      ],
+      "director": "The Wachowskis",
+      "cinematography": "Bill Pope",
+      "age": "R",
+      "img": "https://th.bing.com/th/id/OIP.rZdNNSeHnwC-LuwpE1EYFgAAAA?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 5.8,
+      "comments": []
+    },
+    {
+      "id": "32",
+      "type": "Kids",
+      "title": "The Lion King",
+      "description": "Journey to the Pride Lands and follow the epic tale of Simba, a young lion prince who must reclaim his throne from his treacherous uncle Scar, in this timeless Disney classic.",
+      "match": "94%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "writers": [
+        "Irene Mecchi",
+        "Jonathan Roberts",
+        "Linda Woolverton"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Ivan Bilancio",
+      "producers": [
+        "Don Hahn"
+      ],
+      "costumeDesign": [],
+      "director": "Roger Allers",
+      "cinematography": "Various",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP._2AHPn_-IN4sqxzeeUXVRgHaJv?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.3,
+      "comments": []
+    },
+    {
+      "id": "33",
+      "type": "TV Series",
+      "title": "Stranger Things",
+      "description": "Enter the supernatural world of Hawkins, Indiana, as a group of kids encounters mysterious forces and government conspiracies in the 1980s.",
+      "match": "98%",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "writers": [
+        "The Duffer Brothers"
+      ],
+      "cast": [
+        "Сашко Коцев",
+        "Раде Шербеџија"
+      ],
+      "editing": "Kevin D. Ross",
+      "producers": [
+        "Shawn Levy",
+        "Dan Cohen",
+        "Iain Paterson"
+      ],
+      "costumeDesign": [],
+      "director": "The Duffer Brothers",
+      "cinematography": "Tim Ives",
+      "age": "TV-14",
+      "img": "https://th.bing.com/th/id/OIP.GD7nvI4PYbYZX5NGd4xZtAHaK-?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.4,
+      "comments": []
+    },
+    {
+      "id": "34",
+      "type": "Documentaries",
+      "title": "Blackfish",
+      "description": "Expose the dark truth behind the captivity of killer whales in this eye-opening documentary that sheds light on the consequences of keeping these majestic creatures in captivity.",
+      "match": "97%",
+      "genres": [
+        "Balkan"
+      ],
+      "writers": [
+        "Gabriela Cowperthwaite",
+        "Elliot Page"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Eli Despres",
+      "producers": [
+        "Manuel Oteyza",
+        "Gabriela Cowperthwaite"
+      ],
+      "costumeDesign": [],
+      "director": "Gabriela Cowperthwaite",
+      "cinematography": "Jonathan Ingalls",
+      "age": "PG-13",
+      "img": "https://th.bing.com/th/id/OIP.VvHiqc854dD7xHtF703B_wHaLH?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.2,
+      "comments": []
+    },
+    {
+      "id": "35",
+      "type": "Podcast",
+      "title": "Serial",
+      "description": "Delve into the twists and turns of real-life mysteries in this groundbreaking podcast that investigates a different true crime case each season with in-depth reporting and storytelling.",
+      "match": "96%",
+      "genres": [
+        "Balkan"
+      ],
+      "writers": [
+        "Sarah Koenig"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Sarah Koenig",
+        "Julie Snyder"
+      ],
+      "costumeDesign": [],
+      "director": "Sarah Koenig",
+      "cinematography": "N/A",
+      "age": "18+",
+      "img": "https://m.media-amazon.com/images/M/MV5BZDI4YmU2OGUtNzM1MS00NmM0LTliOTQtMTBlM2VkZWRkM2Q1XkEyXkFqcGdeQXVyNTIxMDQ3Mw@@._V1_UY1200_CR79,0,630,1200_AL_.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.1,
+      "comments": []
+    },
+    {
+      "id": "36",
+      "type": "Movies",
+      "title": "Gladiator",
+      "description": "Experience the epic tale of Maximus Decimus Meridius, a Roman general who seeks revenge against the corrupt emperor who murdered his family and sent him into slavery.",
+      "match": "95%",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "writers": [
+        "David Franzoni",
+        "John Logan",
+        "William Nicholson"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Pietro Scalia",
+      "producers": [
+        "Douglas Wick",
+        "David Franzoni",
+        "Branko Lustig"
+      ],
+      "costumeDesign": [
+        "Janty Yates"
+      ],
+      "director": "Ridley Scott",
+      "cinematography": "John Mathieson",
+      "age": "R",
+      "img": "https://www.themoviedb.org/t/p/original/qKSSpiaiLQC2gSZ6wHrV3mgZkpT.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.3,
+      "comments": []
+    },
+    {
+      "id": "37",
+      "type": "Kids",
+      "title": "Beauty and the Beast",
+      "description": "Enter the enchanting world of Belle and the Beast in this timeless Disney classic, as they discover the true meaning of love and acceptance in a magical castle.",
+      "match": "94%",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "writers": [
+        "Linda Woolverton"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "John Carnochan",
+      "producers": [
+        "Don Hahn"
+      ],
+      "costumeDesign": [],
+      "director": "Gary Trousdale",
+      "cinematography": "Various",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP.78B7-ciLglBA-iu4Bnlq3gHaKD?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.2,
+      "comments": []
+    },
+    {
+      "id": "38",
+      "type": "TV Series",
+      "title": "The Crown",
+      "description": "Explore the reign of Queen Elizabeth II in this lavish historical drama series that offers a glimpse into the personal and political challenges faced by the British monarchy.",
+      "match": "97%",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "writers": [
+        "Peter Morgan"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Peter Morgan",
+        "Stephen Daldry",
+        "Andy Harries"
+      ],
+      "costumeDesign": [],
+      "director": "Various",
+      "cinematography": "Various",
+      "age": "TV-MA",
+      "img": "https://th.bing.com/th/id/OIP.bpF9XSnOXlCNiykLXsc6NgHaK9?w=595&h=881&rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.8,
+      "comments": []
+    },
+    {
+      "id": "39",
+      "type": "Documentaries",
+      "title": "March of the Penguins",
+      "description": "Witness the remarkable journey of emperor penguins as they brave the harsh Antarctic conditions to find a mate and raise their young in this captivating documentary.",
+      "match": "96%",
+      "genres": [
+        "Balkan"
+      ],
+      "writers": [
+        "Luc Jacquet",
+        "Michel Fessler"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Sabine Emiliani",
+      "producers": [
+        "Yves Darondeau",
+        "Christophe Lioud",
+        "Emmanuel Priou"
+      ],
+      "costumeDesign": [],
+      "director": "Luc Jacquet",
+      "cinematography": "Laurent Chalet, Jérôme Maison, Laurent Charbonnier, Vincent Leroy",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP.QE94iI6Dn4s_hbHEe5rV9AHaLH?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.9,
+      "comments": []
+    },
+    {
+      "id": "40",
+      "type": "Podcast",
+      "title": "TED Radio Hour",
+      "description": "Explore the ideas and concepts that shape our world with TED Radio Hour, a podcast that features inspiring talks from TED speakers on a wide range of topics.",
+      "match": "95%",
+      "genres": [
+        "Balkan"
+      ],
+      "writers": [
+        "Guy Raz"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "N/A",
+      "producers": [
+        "NPR"
+      ],
+      "costumeDesign": [],
+      "director": "N/A",
+      "cinematography": "N/A",
+      "age": "All Ages",
+      "img": "https://th.bing.com/th/id/OIP.DOquhqbxpbq-NAWn-fH3vgHaHa?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.2,
+      "comments": []
+    },
+    {
+      "id": "41",
+      "type": "Movies",
+      "title": "The Shawshank Redemption",
+      "description": "Follow the story of Andy Dufresne, a banker wrongly convicted of murder, as he forms a deep bond with fellow inmate Red and plans his escape from Shawshank State Penitentiary.",
+      "match": "98%",
+      "genres": [
+        "Drama"
+      ],
+      "writers": [
+        "Balkan"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Richard Francis-Bruce",
+      "producers": [
+        "Niki Marvin"
+      ],
+      "costumeDesign": [],
+      "director": "Frank Darabont",
+      "cinematography": "Roger Deakins",
+      "age": "R",
+      "img": "https://th.bing.com/th/id/OIP.atj4mLnQWhw7cyvaF0BPfwHaLH?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.6,
+      "comments": []
+    },
+    {
+      "id": "42",
+      "type": "Kids",
+      "title": "Toy Story",
+      "description": "Join Woody, Buzz Lightyear, and their toy friends as they embark on a thrilling adventure to reunite with their owner Andy, in this beloved Pixar animated film.",
+      "match": "94%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "writers": [
+        "John Lasseter",
+        "Pete Docter",
+        "Andrew Stanton",
+        "Joe Ranft"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Robert Gordon",
+      "producers": [
+        "Bonnie Arnold",
+        "Ralph Guggenheim"
+      ],
+      "costumeDesign": [],
+      "director": "John Lasseter",
+      "cinematography": "Various",
+      "age": "G",
+      "img": "https://th.bing.com/th/id/OIP.wmhkeSqvMA3UOpEOAKoUoAHaEK?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.3,
+      "comments": []
+    },
+    {
+      "id": "43",
+      "type": "TV Series",
+      "title": "Friends",
+      "description": "Join the six friends - Ross, Rachel, Chandler, Monica, Joey, and Phoebe - as they navigate life and love in New York City in this iconic sitcom series filled with laughter and heartwarming moments.",
+      "match": "97%",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "writers": [
+        "David Crane",
+        "Marta Kauffman"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "David Crane",
+        "Marta Kauffman",
+        "Kevin S. Bright"
+      ],
+      "costumeDesign": [],
+      "director": "Various",
+      "cinematography": "Various",
+      "age": "TV-14",
+      "img": "https://th.bing.com/th/id/OIP.UIsQvn_1nRJODAT2Pf4lowHaFj?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3,
+      "comments": []
+    },
+    {
+      "id": "44",
+      "type": "Documentaries",
+      "title": "Food, Inc.",
+      "description": "Expose the hidden truths behind the food industry in America in this eye-opening documentary that investigates the impact of corporate farming on health, environment, and society.",
+      "match": "96%",
+      "genres": [
+        "Balkan"
+      ],
+      "writers": [
+        "Robert Kenner",
+        "Elise Pearlstein",
+        "Kim Roberts"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "Kim Roberts",
+      "producers": [
+        "Robert Kenner",
+        "Elise Pearlstein"
+      ],
+      "costumeDesign": [],
+      "director": "Robert Kenner",
+      "cinematography": "Richard Pearce",
+      "age": "PG",
+      "img": "https://th.bing.com/th/id/OIP.gZ_8DVxrKE5qA3MWcpTvoAHaK7?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 1.9,
+      "comments": []
+    },
+    {
+      "id": "45",
+      "type": "Podcast",
+      "title": "The Daily",
+      "description": "Stay informed about the latest news and events shaping the world with The Daily, a podcast that delivers compelling stories and insightful analysis from The New York Times.",
+      "match": "95%",
+      "genres": [
+        "News",
+        "Podcast"
+      ],
+      "writers": [
+        "Michael Barbaro"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "N/A",
+      "producers": [
+        "The New York Times"
+      ],
+      "costumeDesign": [],
+      "director": "N/A",
+      "cinematography": "N/A",
+      "age": "All Ages",
+      "img": "https://www.ghafla.com/ug/wp-content/uploads/sites/5/2018/08/DZPQrhUXcAIY6K9.jpg",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.8,
+      "comments": []
+    },
+    {
+      "id": "46",
+      "type": "Movies",
+      "title": "The Godfather",
+      "description": "Enter the world of the Corleone crime family in this epic mafia film, as the aging patriarch Vito Corleone passes down his empire to his reluctant son Michael, leading to a power struggle and betrayal.",
+      "match": "97%",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "writers": [
+        "Mario Puzo",
+        "Francis Ford Coppola"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "William Reynolds",
+      "producers": [
+        "Albert S. Ruddy"
+      ],
+      "costumeDesign": [
+        "Anna Hill Johnstone"
+      ],
+      "director": "Francis Ford Coppola",
+      "cinematography": "Gordon Willis",
+      "age": "R",
+      "img": "https://picfiles.alphacoders.com/137/thumb-1920-137115.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.1,
+      "comments": []
+    },
+    {
+      "id": "47",
+      "type": "Kids",
+      "title": "Finding Nemo",
+      "description": "Embark on an unforgettable underwater adventure with Marlin and Dory as they search for Marlin's son Nemo, who has been captured by a diver and taken to a fish tank in this heartwarming Pixar film.",
+      "match": "94%",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "writers": [
+        "Andrew Stanton",
+        "Bob Peterson",
+        "David Reynolds"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "David Ian Salter",
+      "producers": [
+        "Graham Walters"
+      ],
+      "costumeDesign": [],
+      "director": "Andrew Stanton",
+      "cinematography": "Various",
+      "age": "G",
+      "img": "https://i.jeded.com/i/finding-nemo.462.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 4.5,
+      "comments": []
+    },
+    {
+      "id": "48",
+      "type": "TV Series",
+      "title": "Breaking Bad",
+      "description": "Follow the transformation of Walter White, a high school chemistry teacher turned methamphetamine manufacturer, as he descends into the criminal underworld in this gripping drama series.",
+      "match": "98%",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "writers": [
+        "Vince Gilligan"
+      ],
+      "cast": [
+        "Раде Шербеџија",
+        "Тони Михајловски"
+      ],
+      "editing": "Various",
+      "producers": [
+        "Vince Gilligan",
+        "Mark Johnson",
+        "Michelle MacLaren"
+      ],
+      "costumeDesign": [],
+      "director": "Various",
+      "cinematography": "Various",
+      "age": "TV-MA",
+      "img": "https://th.bing.com/th/id/OIP.d2pmKr0QURIvS41I0knO6AHaFj?rs=1&pid=ImgDetMain",
+      "trailer": "/assets/images/trailer3.mp4",
+      "video": "/assets/images/trailer3.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.3,
+      "comments": []
+    },
+    {
+      "id": "49",
+      "type": "Documentaries",
+      "title": "Won't You Be My Neighbor?",
+      "description": "Celebrate the life and legacy of Fred Rogers, the beloved host of Mister Rogers' Neighborhood, in this heartwarming documentary that explores his impact on children's television and society.",
+      "match": "96%",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "writers": [
+        "Morgan Neville"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Тони Михајловски"
+      ],
+      "editing": "Jeff Malmberg",
+      "producers": [
+        "Morgan Neville",
+        "Caryn Capotosto",
+        "Nicholas Ma"
+      ],
+      "costumeDesign": [],
+      "director": "Morgan Neville",
+      "cinematography": "Graham Willoughby",
+      "age": "PG-13",
+      "img": "https://scera.org/wp-content/uploads/2018/08/wont_you_be_my_neighbor.jpg",
+      "trailer": "/assets/images/trailer1.mp4",
+      "video": "/assets/images/trailer1.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 2.6,
+      "comments": []
+    },
+    {
+      "id": "50",
+      "type": "Podcast",
+      "title": "Stuff You Should Know",
+      "description": "Expand your knowledge and satisfy your curiosity with Stuff You Should Know, a podcast that covers a wide range of interesting topics and explores how things work in the world.",
+      "match": "95%",
+      "genres": [
+        "Education",
+        "Podcast"
+      ],
+      "writers": [
+        "Josh Clark",
+        "Chuck Bryant"
+      ],
+      "cast": [
+        "Игор Џамбазов",
+        "Сашко Коцев"
+      ],
+      "editing": "N/A",
+      "producers": [
+        "iHeartRadio"
+      ],
+      "costumeDesign": [],
+      "director": "N/A",
+      "cinematography": "N/A",
+      "age": "All Ages",
+      "img": "https://ia.media-imdb.com/images/M/MV5BMTc0Mjg1Nzc0MF5BMl5BanBnXkFtZTcwODM5OTcwOQ@@._V1_UY1200_CR133,0,630,1200_AL_.jpg",
+      "trailer": "/assets/images/trailer2.mp4",
+      "video": "/assets/images/trailer2.mp4",
+      "popular": true,
+      "newReleases": false,
+      "comingSoon": false,
+      "ourRecommendation": true,
+      "imdb": 3.6,
+      "comments": []
+    }
+  ],
+  "artists": [
+    {
+      "id": "artist-1",
+      "name": "Тони Михајловски",
+      "about": "Михајловски е роден во Куманово на 1 јули 1967 година. Тој по завршувањето на Факултет за драмски уметности во Скопје, станува член на Драмата при Македонскиот народен театар во 1994 година. Во 2010 тој станал добитник на наградата за најдобар глумец на петтиот меѓународен театарски фестивал „ЈоакимИнтерФест“ во Крагуевац, Србија",
+      "img": "/assets/images/toniMihajlovski.png",
+      "rewards": [
+        "Награда Трајко Чоревски за млад глумец на МТФ Војдан Чернодрински Прилеп (1993) и (1994)",
+        "Награда за глумец на Златна бубамара на популарноста (1997)",
+        "Награда Златна маска на фестивалот Охридско лето за улогата на Пер Гинт (2001)"
+      ]
+    },
+    {
+      "id": "artist-2",
+      "name": "Игор Џамбазов",
+      "about": "Роден е на 15 јули 1963 во Скопје во семејството на композиторот Александар Џамбазов и глумицата Анче Џамбазова, а како внук на истакнатиот глумец Петре Прличко. Што се однесува до почетоците во глумата, неговата примарна професија, Игор Џамбазов со глума почнал да се занимава на шестгодишна возраст кога глумел во филмот Македонскиот дел од пеколот, во режија на Ватрослав Мимица. Во текот на детството, во тинејџерскиот период, па сè до запишувањето на Академијата за драмски уметности, тој е присутен во различни емисии и серии. Значајна улога во овој период е улогата на Трајче во филмот кој се заснова на истоимената книга „Волшебното самарче“ од Ванчо Николески. Во филмот ја играл главната улога заедно со легендарниот глумец Ристо Шишков.",
+      "img": "/assets/images/igorDzambazov.png",
+      "rewards": [
+        "Награда за „Трајни музички вредности“ за Игор Џамбазов"
+      ]
+    },
+    {
+      "id": "artist-3",
+      "name": "Раде Шербеџија",
+      "about": "Раде Шербеджија е хрватски глумец, режисер, продуцент, писател и музичар со српско потекло. Смета се за еден од најдобрите глумци од просторот на поранешна Југославија, а постигна и многу успешна меѓународна кариера. Роден е на 27 јули 1946 година во селото Буниќ, кое се наоѓа во близина на Кореница во Хрватска.",
+      "img": "/assets/images/radeSherbedzija.png",
+      "rewards": [
+        "FEDIS ја наведе дека Шербеджија е „прославени драмски уметник и веројатно најуспешниот глумец од овие простори“.",
+        "Според најавата, 13. ФЕДИС ќе се одржи од 3-ти до 5-ти октомври во Домот на младината во Белград, со учество на телевизиските серии од Србија, Хрватска и Босна и Херцеговина."
+      ]
+    },
+    {
+      "id": "artist-4",
+      "name": "Сашко Коцев",
+      "about": "Сашко Коцев (роден на 28 ноември 1981 во Куманово) — македонски театарски, филмски и телевизиски глумец, стендап комичар и водител.",
+      "img": "/assets/images/sashkoKocev.png",
+      "rewards": [
+        "Награда за најдобар актер во краткометражниот филм Налепница на AVANCA FF - Португалија, 2021",
+        "Награда за најдобар актер во краткометражниот филм Налепница на Beirut Shorts International Film Festival 2021;"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "rjufkmncit",
+      "email": "dariopetkovski@yahoo.com",
+      "password": "dario12345",
+      "confPassword": "dario12345",
+      "img": "https://uploads-ssl.webflow.com/624c566486c217702176209e/637df570c03d73730a96c13e_Ellipse%206-p-1080.png",
+      "type": "viewer",
+      "interests": [
+        "dance",
+        "literature"
+      ],
+      "totorial": "diveIn",
+      "subscribtion": "499den/month",
+      "userName": "Dario",
+      "bio": "hey! I'm Dario!",
+      "cultures": [
+        "global",
+        "balkan"
+      ],
+      "fav_categories": [
+        "Horror",
+        "Thriller",
+        "Sci-Fi",
+        "Fantasy",
+        "Action"
+      ],
+      "notifications": [
+        {
+          "email_notifications": false,
+          "app_notifications": false,
+          "no_notifications": true
+        }
+      ],
+      "privacy": "public",
+      "isLogged": false,
+      "friends": [
+        "utkgevphxu",
+        "bgdxedouhi",
+        "owvrgpflrx"
+      ],
+      "followers": [
+        "utkgevphxu",
+        "bgdxedouhi",
+        "owvrgpflrx"
+      ],
+      "lastWatched": [
+        "11",
+        "18"
+      ]
+    },
+    {
+      "id": "wrxbylnbgo",
+      "email": "danielsimonovski@yahoo.com",
+      "password": "daniel123",
+      "confPassword": "daniel123",
+      "img": "https://th.bing.com/th/id/OIP.WEeBX-ubPUBkiZqg3S2fSAHaHa?w=800&h=800&rs=1&pid=ImgDetMain",
+      "type": "artist",
+      "interests": [
+        "dance",
+        "teatre",
+        "literature"
+      ],
+      "totorial": "diveIn",
+      "subscribtion": "points",
+      "userName": "daniel",
+      "bio": "hey! I'm Daniel!",
+      "cultures": [
+        "global",
+        "mediterian"
+      ],
+      "fav_categories": [
+        "Horror",
+        "Romance",
+        "Fantasy"
+      ],
+      "notifications": [
+        {
+          "email_notifications": false,
+          "app_notifications": true,
+          "no_notifications": false
+        }
+      ],
+      "privacy": "public",
+      "isLogged": false,
+      "friends": [
+        "mukknpcdis",
+        "owvrgpflrx"
+      ],
+      "followers": [
+        "mukknpcdis",
+        "owvrgpflrx"
+      ],
+      "lastWatched": [
+        "1",
+        "5"
+      ]
+    },
+    {
+      "id": "utkgevphxu",
+      "email": "kristijan.P@yahoo.com",
+      "password": "kristijan5",
+      "confPassword": "kristijan5",
+      "img": "https://th.bing.com/th/id/OIP.s52giu_ZNp6frFxedNMG9wHaHa?w=662&h=662&rs=1&pid=ImgDetMain",
+      "type": "viewer",
+      "interests": [
+        "dance",
+        "literature"
+      ],
+      "totorial": "diveIn",
+      "subscribtion": "499den/month",
+      "userName": "kristijan",
+      "bio": "hey! I'm Kristijan",
+      "cultures": [
+        "mediterian",
+        "balkan"
+      ],
+      "fav_categories": [
+        "Horror",
+        "Sci-Fi",
+        "Balkan"
+      ],
+      "notifications": [
+        {
+          "email_notifications": false,
+          "app_notifications": true,
+          "no_notifications": false
+        }
+      ],
+      "privacy": "public",
+      "isLogged": false,
+      "friends": [
+        "owvrgpflrx",
+        "mukknpcdis",
+        "bgdxedouhi"
+      ],
+      "followers": [
+        "owvrgpflrx",
+        "mukknpcdis",
+        "bgdxedouhi"
+      ],
+      "lastWatched": [
+        "5"
+      ]
+    },
+    {
+      "id": "bgdxedouhi",
+      "email": "ana.spirevska@gmail.com",
+      "password": "ana12345",
+      "confPassword": "ana12345",
+      "img": "https://ostraining.com/wp-content/uploads/images/coding/circled-images/circled-girl.jpg",
+      "type": "artist",
+      "interests": [
+        "dance",
+        "visualArts"
+      ],
+      "totorial": "diveIn",
+      "subscribtion": "free",
+      "userName": "ana",
+      "bio": "hello!! My name is Ana Spirevska....",
+      "cultures": [
+        "global",
+        "mediterian"
+      ],
+      "fav_categories": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "notifications": [
+        {
+          "email_notifications": true,
+          "app_notifications": false,
+          "no_notifications": false
+        }
+      ],
+      "privacy": "myFriends",
+      "isLogged": false,
+      "friends": [
+        "utkgevphxu",
+        "vpkxblnujj"
+      ],
+      "followers": [
+        "utkgevphxu",
+        "vpkxblnujj"
+      ],
+      "lastWatched": [
+        "6",
+        "2"
+      ]
+    },
+    {
+      "id": "vpkxblnujj",
+      "email": "lukalazarovski@gmail.com",
+      "password": "lukaluka",
+      "confPassword": "lukaluka",
+      "img": "https://i1.rgstatic.net/ii/profile.image/1183100050645002-1659084441084_Q512/Simon-Stephan-9.jpg",
+      "type": "viewer",
+      "interests": [
+        "cinema",
+        "teatre"
+      ],
+      "totorial": "totorial",
+      "subscribtion": "499den/month",
+      "userName": "luka",
+      "bio": "hey! I'm Luka, and I'm a front-end developer! ",
+      "cultures": [
+        "balkan",
+        "macedonian"
+      ],
+      "fav_categories": [
+        "Horror",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "notifications": [
+        {
+          "email_notifications": false,
+          "app_notifications": true,
+          "no_notifications": false
+        }
+      ],
+      "privacy": "public",
+      "isLogged": false,
+      "friends": [
+        "wrxbylnbgo",
+        "mukknpcdis",
+        "bgdxedouhi"
+      ],
+      "followers": [
+        "wrxbylnbgo",
+        "mukknpcdis",
+        "bgdxedouhi"
+      ],
+      "lastWatched": [
+        "3",
+        "6",
+        "5"
+      ]
+    },
+    {
+      "id": "mukknpcdis",
+      "email": "dariopetkovski2@yahoo.com",
+      "password": "dario12345",
+      "confPassword": "dario12345",
+      "img": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=3742179412721543&height=200&width=200&ext=1719347203&hash=Abbid9ecnMy9nbENrB44Vz-X",
+      "type": "viewer",
+      "interests": [
+        "dance",
+        "literature"
+      ],
+      "totorial": "diveIn",
+      "subscribtion": "499den/month",
+      "userName": "Dario Petkovski",
+      "bio": "heyy!!",
+      "cultures": [
+        "european",
+        "mediterian"
+      ],
+      "fav_categories": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "notifications": [
+        {
+          "email_notifications": false,
+          "app_notifications": true,
+          "no_notifications": false
+        }
+      ],
+      "privacy": "public",
+      "isLogged": false,
+      "friends": [
+        "utkgevphxu",
+        "vpkxblnujj",
+        "wrxbylnbgo",
+        "owvrgpflrx"
+      ],
+      "followers": [
+        "utkgevphxu",
+        "vpkxblnujj",
+        "wrxbylnbgo",
+        "owvrgpflrx"
+      ],
+      "lastWatched": [
+        "1",
+        "2",
+        "5",
+        "6",
+        "4",
+        "21",
+        "3"
+      ]
+    },
+    {
+      "id": "owvrgpflrx",
+      "email": "dariopetkovski29@gmail.com",
+      "password": "dario12345",
+      "confPassword": "dario12345",
+      "img": "https://lh3.googleusercontent.com/a/ACg8ocKSokTUVPu6laiaUNnGdDtInP9hOmCgMahUOYt8_bgpkS9Nzsbr=s96-c",
+      "type": "viewer",
+      "interests": [
+        "dance",
+        "literature"
+      ],
+      "totorial": "diveIn",
+      "subscribtion": "499den/month",
+      "userName": "Dario Petkovski",
+      "bio": "heyyy!!!",
+      "cultures": [
+        "mediterian",
+        "european"
+      ],
+      "fav_categories": [
+        "Horror",
+        "Thriller",
+        "Romance"
+      ],
+      "notifications": [
+        {
+          "email_notifications": false,
+          "app_notifications": true,
+          "no_notifications": false
+        }
+      ],
+      "privacy": "public",
+      "isLogged": false,
+      "friends": [
+        "utkgevphxu",
+        "mukknpcdis",
+        "rjufkmncit"
+      ],
+      "followers": [
+        "utkgevphxu",
+        "mukknpcdis",
+        "rjufkmncit"
+      ],
+      "lastWatched": [
+        "1",
+        "4",
+        "5"
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": "tldojpaphj",
+      "userID": "owvrgpflrx",
+      "content": "I love Igor Dzambazov he is the best artist!",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+      "likes": [
+        "mukknpcdis",
+        "utkgevphxu",
+        "owvrgpflrx",
+        "bgdxedouhi",
+        "rjufkmncit"
+      ],
+      "dislikes": [
+        "wrxbylnbgo",
+        "vpkxblnujj"
+      ]
+    },
+    {
+      "id": "efqgmcucmt",
+      "userID": "wrxbylnbgo",
+      "content": "Have you watched the dark knight...",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "likes": [
+        "vpkxblnujj",
+        "mukknpcdis",
+        "bgdxedouhi",
+        "wrxbylnbgo",
+        "owvrgpflrx",
+        "rjufkmncit"
+      ],
+      "dislikes": [
+        "utkgevphxu"
+      ]
+    },
+    {
+      "id": "avzhsacpdn",
+      "userID": "bgdxedouhi",
+      "content": "Interstellar is my best movie",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.",
+      "likes": [
+        "utkgevphxu",
+        "wrxbylnbgo",
+        "owvrgpflrx",
+        "vpkxblnujj",
+        "bgdxedouhi"
+      ],
+      "dislikes": [
+        "mukknpcdis",
+        "rjufkmncit"
+      ]
+    },
+    {
+      "id": "emilxqbtei",
+      "userID": "wrxbylnbgo",
+      "content": "Toni Mihajlovski he will never get bored",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "likes": [
+        "mukknpcdis",
+        "owvrgpflrx",
+        "vpkxblnujj",
+        "rjufkmncit",
+        "bgdxedouhi"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "gcmtyduxmw",
+      "userID": "mukknpcdis",
+      "content": "this app so cool! in the same time you can watch movie and leave a comment on your best scene!",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+      "likes": [
+        "vpkxblnujj",
+        "rjufkmncit",
+        "bgdxedouhi"
+      ],
+      "dislikes": [
+        "owvrgpflrx"
+      ]
+    },
+    {
+      "id": "njubzbtvvg",
+      "userID": "rjufkmncit",
+      "content": "breaking bad is a great tv serie",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "likes": [
+        "owvrgpflrx",
+        "bgdxedouhi"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "ypmhirkmah",
+      "userID": "bgdxedouhi",
+      "content": "I really love animes...",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.\n",
+      "likes": [
+        "vpkxblnujj"
+      ],
+      "dislikes": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "pvuzompltp",
+      "commentID": null,
+      "postID": "tldojpaphj",
+      "userID": "mukknpcdis",
+      "content": "yes I agree with you he is great comedian",
+      "likes": [
+        "utkgevphxu",
+        "owvrgpflrx",
+        "bgdxedouhi"
+      ]
+    },
+    {
+      "id": "sdzvnedjyw",
+      "commentID": "pvuzompltp",
+      "postID": "tldojpaphj",
+      "userID": "utkgevphxu",
+      "content": "he always make me laugh haha",
+      "likes": [
+        "owvrgpflrx",
+        "bgdxedouhi"
+      ]
+    },
+    {
+      "id": "hzxwicmcyw",
+      "commentID": "pvuzompltp",
+      "postID": "tldojpaphj",
+      "userID": "owvrgpflrx",
+      "content": "me too!!!",
+      "likes": [
+        "mukknpcdis"
+      ]
+    },
+    {
+      "id": "tglzrtvnrb",
+      "commentID": null,
+      "postID": "efqgmcucmt",
+      "userID": "vpkxblnujj",
+      "content": "the movie was great can't wait for the part 2",
+      "likes": [
+        "mukknpcdis"
+      ]
+    },
+    {
+      "id": "rlksgvcvrn",
+      "commentID": "tglzrtvnrb",
+      "postID": "efqgmcucmt",
+      "userID": "mukknpcdis",
+      "content": "me too I love dark knight",
+      "likes": [
+        "bgdxedouhi"
+      ]
+    },
+    {
+      "id": "xsubfrrptw",
+      "commentID": null,
+      "postID": "avzhsacpdn",
+      "userID": "utkgevphxu",
+      "content": "yes and my best scene is when they enter in the black hole",
+      "likes": [
+        "bgdxedouhi",
+        "wrxbylnbgo",
+        "rjufkmncit"
+      ]
+    },
+    {
+      "id": "zexafaaxop",
+      "commentID": "xsubfrrptw",
+      "postID": "avzhsacpdn",
+      "userID": "bgdxedouhi",
+      "content": "yeahh!! I agree with you",
+      "likes": [
+        "wrxbylnbgo",
+        "rjufkmncit"
+      ]
+    },
+    {
+      "id": "zmwmsqppdq",
+      "commentID": null,
+      "postID": "emilxqbtei",
+      "userID": "mukknpcdis",
+      "content": "yes he can always make you laugh with funny jokes!",
+      "likes": [
+        "owvrgpflrx",
+        "wrxbylnbgo"
+      ]
+    },
+    {
+      "id": "farfadfxpy",
+      "commentID": "zmwmsqppdq",
+      "postID": "emilxqbtei",
+      "userID": "owvrgpflrx",
+      "content": "you can hear jokes from him like never before haha",
+      "likes": [
+        "wrxbylnbgo"
+      ]
+    },
+    {
+      "id": "ysnquwxgpo",
+      "commentID": "zmwmsqppdq",
+      "postID": "emilxqbtei",
+      "userID": "wrxbylnbgo",
+      "content": "yes!!",
+      "likes": []
+    },
+    {
+      "id": "xfzaspgsjv",
+      "commentID": null,
+      "postID": "gcmtyduxmw",
+      "userID": "vpkxblnujj",
+      "content": "yes i really like that...",
+      "likes": [
+        "mukknpcdis",
+        "rjufkmncit"
+      ]
+    },
+    {
+      "id": "ewzxedafpz",
+      "commentID": "xfzaspgsjv",
+      "postID": "gcmtyduxmw",
+      "userID": "mukknpcdis",
+      "content": "not just leave a comment also you can discussion about movies and artist afte you watch it..",
+      "likes": [
+        "rjufkmncit"
+      ]
+    },
+    {
+      "id": "suchqtdtbv",
+      "commentID": "xsubfrrptw",
+      "postID": "avzhsacpdn",
+      "userID": "rjufkmncit",
+      "content": "do you believe that fourth dimension exsist",
+      "likes": []
+    },
+    {
+      "id": "cbdvnsgcoc",
+      "commentID": null,
+      "postID": "njubzbtvvg",
+      "userID": "owvrgpflrx",
+      "content": "its not bad, but try watch it \"Friends\" its so beautiful tv serie",
+      "likes": [
+        "rjufkmncit",
+        "mukknpcdis"
+      ]
+    },
+    {
+      "id": "ggdtmfngko",
+      "commentID": "cbdvnsgcoc",
+      "postID": "njubzbtvvg",
+      "userID": "rjufkmncit",
+      "content": "thank you for the advice I will check it",
+      "likes": [
+        "mukknpcdis"
+      ]
+    },
+    {
+      "id": "zelxrblqyd",
+      "commentID": null,
+      "postID": "ypmhirkmah",
+      "userID": "vpkxblnujj",
+      "content": "yeah I like them too, never too old for the animes hah",
+      "likes": [
+        "bgdxedouhi"
+      ]
+    },
+    {
+      "id": "qutfpbuwib",
+      "commentID": "zelxrblqyd",
+      "postID": "ypmhirkmah",
+      "userID": "bgdxedouhi",
+      "content": "I totally agree with you, what's your favorite anime? ",
+      "likes": []
+    },
+    {
+      "id": "zbqmqxvbam",
+      "commentID": "cbdvnsgcoc",
+      "postID": "njubzbtvvg",
+      "userID": "mukknpcdis",
+      "content": "I have watched that Serie it's beautiful",
+      "likes": []
+    }
+  ]
+}
